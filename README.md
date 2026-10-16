@@ -2,9 +2,6 @@
 
 Research materials for **MSSQ: Benchmarking Modal Solution-Space Reasoning in Large Language Models**.
 
-**Authors:** Chenghang Yu, Cong Wang, and Jun Yu  
-**Affiliation:** Department of Automation, University of Science and Technology of China
-
 MSSQ evaluates reasoning about the solution spaces of constraint problems expressed in Chinese and English. For each problem and proposition, four independent prompts request necessity and possibility judgments, a witness, and a counterexample. Exact solution sets and deterministic verification connect these outputs at the instance level.
 
 ## Download the complete research package
