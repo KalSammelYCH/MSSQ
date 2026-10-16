@@ -6,9 +6,9 @@ MSSQ evaluates reasoning about the solution spaces of constraint problems expres
 
 ## Download the complete research package
 
-**[Download MSSQ_materials_20261016.zip](https://github.com/KalSammelYCH/MSSQ/releases/download/v20261016/MSSQ_materials_20261016.zip)** (approximately 274 MB).
+**[Download MSSQ_materials_20261017.zip](https://github.com/KalSammelYCH/MSSQ/releases/download/v20261017/MSSQ_materials_20261017.zip)** (approximately 262 MB).
 
-The [versioned release](https://github.com/KalSammelYCH/MSSQ/releases/tag/v20261016) also provides [SHA256SUMS.txt](https://github.com/KalSammelYCH/MSSQ/releases/download/v20261016/SHA256SUMS.txt) for checking the archive's integrity.
+The [versioned release](https://github.com/KalSammelYCH/MSSQ/releases/tag/v20261017) also provides [SHA256SUMS.txt](https://github.com/KalSammelYCH/MSSQ/releases/download/v20261017/SHA256SUMS.txt) for checking the archive's integrity.
 
 The complete package contains:
 
@@ -48,3 +48,5 @@ python -B reproduce.py --output ../MSSQ_recomputed
 Choose a new output directory. The calculation runs offline, checks file hashes, replays scoring, and compares the results with the supplied references. A successful run writes `verification.json` with `"success": true` and `"bootstrap_replayed": true`.
 
 See the [reproduction guide](MSSQ_reproduction/README.md) for data fields and answer-extraction decisions. The [text-constraint check](MSSQ_reproduction/semantic_checks/README.md) has separate replay commands; run these in a working copy of the complete release. The response dataset contains adopted responses, rather than a complete log of all collection attempts; its resource measurements describe those adopted responses.
+
+Python source files are licensed under MIT. Research data and documentation are licensed under CC BY 4.0. See LICENSE.md for scope and third-party rights.
