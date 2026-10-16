@@ -1,0 +1,56 @@
+[
+  {
+    "model": "Claude Opus 5",
+    "n": 57,
+    "compatible": 57,
+    "conflict": 0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "n": 78,
+    "compatible": 41,
+    "conflict": 37
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "n": 61,
+    "compatible": 29,
+    "conflict": 32
+  },
+  {
+    "model": "Grok 4.6",
+    "n": 53,
+    "compatible": 19,
+    "conflict": 34
+  },
+  {
+    "model": "GLM-5.2",
+    "n": 32,
+    "compatible": 16,
+    "conflict": 16
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "n": 58,
+    "compatible": 11,
+    "conflict": 47
+  },
+  {
+    "model": "Kimi-K2.6",
+    "n": 42,
+    "compatible": 3,
+    "conflict": 39
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "n": 16,
+    "compatible": 2,
+    "conflict": 14
+  },
+  {
+    "model": "ALL",
+    "n": 397,
+    "compatible": 178,
+    "conflict": 219
+  }
+]

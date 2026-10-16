@@ -1,0 +1,29 @@
+{
+  "metrics": [
+    {
+      "metric": "construction_failure_given_correct_judgments",
+      "numerator": 280,
+      "denominator": 437,
+      "rate": 0.6407322654462243,
+      "low": 0.5704541517950871,
+      "high": 0.710665284304353,
+      "valid_replicates": 10000,
+      "zero_denominator_replicates": 0
+    },
+    {
+      "metric": "complete_wrong_judgments_given_both_valid",
+      "numerator": 18,
+      "denominator": 62,
+      "rate": 0.2903225806451613,
+      "low": 0.17739563567362432,
+      "high": 0.4027777777777778,
+      "valid_replicates": 10000,
+      "zero_denominator_replicates": 0
+    }
+  ],
+  "seed": 27017,
+  "replicates": 10000,
+  "strata": "family x solution-count group",
+  "draws_per_stratum": 4,
+  "estimator": "pooled sum(numerator)/sum(denominator) per replicate"
+}

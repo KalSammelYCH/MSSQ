@@ -1,0 +1,13 @@
+{
+  "seed": 27017,
+  "replicates": 10000,
+  "strata": 6,
+  "csps_per_stratum": 4,
+  "resampling_unit": "whole CSP; paired across models, languages, directions and endpoints",
+  "percentile_method": "linear interpolation at (n-1)*q",
+  "source": "replayed S02 answers paired with MAIN",
+  "source_sha256": "f1b9c7d432b004e7ae177d1615f8a46ebd0e4d0844b37bf00b1f5614530318fd",
+  "script_sha256": "ba997db47b02f8338b87f6a736f7e281be99bd0320fd0d51eb32c3bd37aa18d7",
+  "interval_rows": 54,
+  "loco_rows": 432
+}

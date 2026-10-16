@@ -1,0 +1,26 @@
+{
+  "cross_tabs": [
+    {
+      "scope": "overall",
+      "n": 1152,
+      "both": 157,
+      "judgment_only": 280,
+      "construction_only": 65,
+      "neither": 650
+    }
+  ],
+  "permutation": [
+    {
+      "scope": "overall",
+      "model": null,
+      "gold_modality": null,
+      "n": 1152,
+      "observed": 157,
+      "expected": 139.74999999999997,
+      "excess_pp": 1.4973958333333357,
+      "reference_low": 128,
+      "reference_high": 152,
+      "upper_tail": 0.001894182956104252
+    }
+  ]
+}

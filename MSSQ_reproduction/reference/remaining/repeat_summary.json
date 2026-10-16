@@ -1,0 +1,273 @@
+{
+  "ALL pooled": {
+    "main_correct": 299,
+    "repeat_correct": 302,
+    "main_complete_constructions": 153,
+    "repeat_complete_constructions": 147,
+    "main_valid_constructions": 122,
+    "repeat_valid_constructions": 112,
+    "main_modal": 46,
+    "repeat_modal": 54,
+    "main_full": 17,
+    "repeat_full": 17,
+    "compatibility_stable": 138,
+    "main_compatibility": {
+      "indeterminate": 25,
+      "compatible": 33,
+      "incompatible": 134
+    },
+    "repeat_compatibility": {
+      "indeterminate": 26,
+      "compatible": 32,
+      "incompatible": 134
+    },
+    "full_transitions": {
+      "neither": 168,
+      "both": 10,
+      "added": 7,
+      "lost": 7
+    },
+    "modal_stable": 85
+  },
+  "Claude Opus 5": {
+    "main_correct": 74,
+    "repeat_correct": 71,
+    "main_complete_constructions": 37,
+    "repeat_complete_constructions": 32,
+    "main_valid_constructions": 37,
+    "repeat_valid_constructions": 32,
+    "main_modal": 16,
+    "repeat_modal": 17,
+    "main_full": 11,
+    "repeat_full": 12,
+    "compatibility_stable": 21,
+    "main_compatibility": {
+      "indeterminate": 11,
+      "compatible": 11,
+      "incompatible": 2
+    },
+    "repeat_compatibility": {
+      "indeterminate": 12,
+      "compatible": 12
+    },
+    "full_transitions": {
+      "neither": 11,
+      "both": 10,
+      "added": 2,
+      "lost": 1
+    },
+    "modal_stable": 17
+  },
+  "Qwen3.8-Max": {
+    "main_correct": 40,
+    "repeat_correct": 41,
+    "main_complete_constructions": 19,
+    "repeat_complete_constructions": 18,
+    "main_valid_constructions": 18,
+    "repeat_valid_constructions": 17,
+    "main_modal": 7,
+    "repeat_modal": 8,
+    "main_full": 3,
+    "repeat_full": 2,
+    "compatibility_stable": 15,
+    "main_compatibility": {
+      "incompatible": 17,
+      "compatible": 6,
+      "indeterminate": 1
+    },
+    "repeat_compatibility": {
+      "incompatible": 19,
+      "compatible": 4,
+      "indeterminate": 1
+    },
+    "full_transitions": {
+      "neither": 19,
+      "lost": 3,
+      "added": 2
+    },
+    "modal_stable": 10
+  },
+  "DeepSeek-V4-Pro": {
+    "main_correct": 42,
+    "repeat_correct": 40,
+    "main_complete_constructions": 19,
+    "repeat_complete_constructions": 19,
+    "main_valid_constructions": 19,
+    "repeat_valid_constructions": 18,
+    "main_modal": 6,
+    "repeat_modal": 4,
+    "main_full": 2,
+    "repeat_full": 1,
+    "compatibility_stable": 13,
+    "main_compatibility": {
+      "incompatible": 17,
+      "compatible": 6,
+      "indeterminate": 1
+    },
+    "repeat_compatibility": {
+      "compatible": 8,
+      "incompatible": 15,
+      "indeterminate": 1
+    },
+    "full_transitions": {
+      "neither": 21,
+      "added": 1,
+      "lost": 2
+    },
+    "modal_stable": 3
+  },
+  "Grok 4.6": {
+    "main_correct": 39,
+    "repeat_correct": 40,
+    "main_complete_constructions": 15,
+    "repeat_complete_constructions": 15,
+    "main_valid_constructions": 14,
+    "repeat_valid_constructions": 14,
+    "main_modal": 6,
+    "repeat_modal": 7,
+    "main_full": 0,
+    "repeat_full": 2,
+    "compatibility_stable": 15,
+    "main_compatibility": {
+      "compatible": 3,
+      "incompatible": 20,
+      "indeterminate": 1
+    },
+    "repeat_compatibility": {
+      "incompatible": 18,
+      "compatible": 5,
+      "indeterminate": 1
+    },
+    "full_transitions": {
+      "neither": 22,
+      "added": 2
+    },
+    "modal_stable": 12
+  },
+  "GLM-5.2": {
+    "main_correct": 26,
+    "repeat_correct": 30,
+    "main_complete_constructions": 20,
+    "repeat_complete_constructions": 18,
+    "main_valid_constructions": 11,
+    "repeat_valid_constructions": 5,
+    "main_modal": 2,
+    "repeat_modal": 9,
+    "main_full": 0,
+    "repeat_full": 0,
+    "compatibility_stable": 16,
+    "main_compatibility": {
+      "incompatible": 18,
+      "compatible": 3,
+      "indeterminate": 3
+    },
+    "repeat_compatibility": {
+      "incompatible": 22,
+      "indeterminate": 2
+    },
+    "full_transitions": {
+      "neither": 24
+    },
+    "modal_stable": 4
+  },
+  "GPT-5.6 Sol": {
+    "main_correct": 32,
+    "repeat_correct": 30,
+    "main_complete_constructions": 22,
+    "repeat_complete_constructions": 21,
+    "main_valid_constructions": 20,
+    "repeat_valid_constructions": 16,
+    "main_modal": 1,
+    "repeat_modal": 1,
+    "main_full": 1,
+    "repeat_full": 0,
+    "compatibility_stable": 17,
+    "main_compatibility": {
+      "incompatible": 20,
+      "compatible": 4
+    },
+    "repeat_compatibility": {
+      "incompatible": 21,
+      "indeterminate": 2,
+      "compatible": 1
+    },
+    "full_transitions": {
+      "neither": 23,
+      "lost": 1
+    },
+    "modal_stable": 12
+  },
+  "Kimi-K2.6": {
+    "main_correct": 17,
+    "repeat_correct": 20,
+    "main_complete_constructions": 3,
+    "repeat_complete_constructions": 6,
+    "main_valid_constructions": 2,
+    "repeat_valid_constructions": 4,
+    "main_modal": 1,
+    "repeat_modal": 3,
+    "main_full": 0,
+    "repeat_full": 0,
+    "compatibility_stable": 23,
+    "main_compatibility": {
+      "incompatible": 24
+    },
+    "repeat_compatibility": {
+      "incompatible": 23,
+      "compatible": 1
+    },
+    "full_transitions": {
+      "neither": 24
+    },
+    "modal_stable": 13
+  },
+  "Gemini 3.8 Flash": {
+    "main_correct": 29,
+    "repeat_correct": 30,
+    "main_complete_constructions": 18,
+    "repeat_complete_constructions": 18,
+    "main_valid_constructions": 1,
+    "repeat_valid_constructions": 6,
+    "main_modal": 7,
+    "repeat_modal": 5,
+    "main_full": 0,
+    "repeat_full": 0,
+    "compatibility_stable": 18,
+    "main_compatibility": {
+      "incompatible": 16,
+      "indeterminate": 8
+    },
+    "repeat_compatibility": {
+      "incompatible": 16,
+      "indeterminate": 7,
+      "compatible": 1
+    },
+    "full_transitions": {
+      "neither": 24
+    },
+    "modal_stable": 14
+  },
+  "main_conditional": {
+    "modal": 46,
+    "failure": 29,
+    "both": 33,
+    "wrong": 12,
+    "missing": 4
+  },
+  "repeat_conditional": {
+    "modal": 54,
+    "failure": 37,
+    "both": 26,
+    "wrong": 8,
+    "missing": 1
+  },
+  "recurrence": {
+    "judgment_correct_construction_fail": 11,
+    "both_valid_wrong": 1
+  },
+  "rank": {
+    "spearman": 0.932954370666449,
+    "kendall": 0.8486684247915055,
+    "mean_absolute_pp": 2.213541666666667
+  }
+}

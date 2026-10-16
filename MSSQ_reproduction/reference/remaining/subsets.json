@@ -1,0 +1,96 @@
+[
+  {
+    "tasks": [
+      "must",
+      "may"
+    ],
+    "success": 437,
+    "hidden": 280,
+    "missed": 437
+  },
+  {
+    "tasks": [
+      "must",
+      "witness"
+    ],
+    "success": 309,
+    "hidden": 152,
+    "missed": 266
+  },
+  {
+    "tasks": [
+      "must",
+      "counterexample"
+    ],
+    "success": 419,
+    "hidden": 262,
+    "missed": 568
+  },
+  {
+    "tasks": [
+      "may",
+      "witness"
+    ],
+    "success": 388,
+    "hidden": 231,
+    "missed": 421
+  },
+  {
+    "tasks": [
+      "may",
+      "counterexample"
+    ],
+    "success": 346,
+    "hidden": 189,
+    "missed": 414
+  },
+  {
+    "tasks": [
+      "witness",
+      "counterexample"
+    ],
+    "success": 222,
+    "hidden": 65,
+    "missed": 225
+  },
+  {
+    "tasks": [
+      "must",
+      "may",
+      "witness"
+    ],
+    "success": 248,
+    "hidden": 91,
+    "missed": 118
+  },
+  {
+    "tasks": [
+      "must",
+      "may",
+      "counterexample"
+    ],
+    "success": 296,
+    "hidden": 139,
+    "missed": 256
+  },
+  {
+    "tasks": [
+      "must",
+      "witness",
+      "counterexample"
+    ],
+    "success": 189,
+    "hidden": 32,
+    "missed": 89
+  },
+  {
+    "tasks": [
+      "may",
+      "witness",
+      "counterexample"
+    ],
+    "success": 177,
+    "hidden": 20,
+    "missed": 96
+  }
+]

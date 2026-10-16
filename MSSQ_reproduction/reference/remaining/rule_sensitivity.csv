@@ -1,0 +1,19 @@
+scope,model,rule,compatible_n,incompatible_n,indeterminate_n
+model,Claude Opus 5,verification_gated,57,8,79
+model,Claude Opus 5,existence_claim,57,8,79
+model,Qwen3.8-Max,verification_gated,41,92,11
+model,Qwen3.8-Max,existence_claim,45,93,6
+model,DeepSeek-V4-Pro,verification_gated,29,111,4
+model,DeepSeek-V4-Pro,existence_claim,31,111,2
+model,Grok 4.6,verification_gated,19,118,7
+model,Grok 4.6,existence_claim,25,118,1
+model,GLM-5.2,verification_gated,16,104,24
+model,GLM-5.2,existence_claim,32,108,4
+model,GPT-5.6 Sol,verification_gated,11,121,12
+model,GPT-5.6 Sol,existence_claim,20,124,0
+model,Kimi-K2.6,verification_gated,3,129,12
+model,Kimi-K2.6,existence_claim,12,129,3
+model,Gemini 3.8 Flash,verification_gated,2,93,49
+model,Gemini 3.8 Flash,existence_claim,47,97,0
+overall,ALL,verification_gated,178,776,198
+overall,ALL,existence_claim,269,788,95

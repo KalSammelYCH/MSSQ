@@ -1,0 +1,9 @@
+# Bilingual prompts and semantic checks
+
+The bilingual example contains the Chinese and English forms of the same CSP and target proposition, with all four task prompts and their formal records. These eight prompts can be compared directly with the prompt index in the reproduction archive.
+
+MUST asks whether the proposition holds in every legal solution. MAY asks whether it holds in at least one legal solution. WIT requests a legal solution satisfying the proposition; CEX requests one violating it. In the matching example, “if and only if” expresses equal truth values, and N(G,H) counts the entities in G assigned to a value in H.
+
+The reproduction archive supplies all 576 task prompts and their file hashes. Its offline entry point recounts the positive and negative sides of the stored solution sets, checks the formal Gold labels, and verifies adopted constructions against the constraints and the stored solutions. Answer-extraction records remain linked to the returned text.
+
+Formal verification and natural-language inspection address different parts of the benchmark. For inspecting wording, the example presents both languages alongside the shared formal constraints; the complete prompt collection supports examination of temporal comparisons, conditional scope, counts, adjacency and equivalence in the other instances.

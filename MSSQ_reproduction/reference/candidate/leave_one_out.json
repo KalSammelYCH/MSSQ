@@ -1,0 +1,1364 @@
+{
+  "source_sha256": "785564f30f48ee6daa2089ec53d74ce7cd9c617a5fcca6bd99df548d31c549a7",
+  "full": {
+    "kept_items": [
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06"
+    ],
+    "positions_per_condition": 48,
+    "correct_by_condition": {
+      "A": 21,
+      "B": 46,
+      "C": 14,
+      "D": 37
+    },
+    "C_wrong": 34,
+    "C_wrong_with_correct_checks": 31,
+    "C_error_checked_fraction": 0.9117647058823529,
+    "C_checked_error_models": [
+      "Claude Opus 5",
+      "DeepSeek-V4-Pro",
+      "GLM-5.2",
+      "GPT-5.6 Sol",
+      "Gemini 3.8 Flash",
+      "Grok 4.6",
+      "Kimi-K2.6",
+      "Qwen3.8-Max"
+    ],
+    "C_checked_error_items": [
+      "E01",
+      "E02",
+      "E03",
+      "E05",
+      "E06"
+    ],
+    "A_C_transitions": {
+      "missing_A_to_correct_C": 2,
+      "missing_A_to_wrong_C": 1,
+      "both_correct": 8,
+      "both_wrong": 20,
+      "correct_to_wrong": 13,
+      "wrong_to_correct": 4
+    },
+    "C_correct_by_model": {
+      "Claude Opus 5": 5,
+      "DeepSeek-V4-Pro": 1,
+      "GLM-5.2": 1,
+      "GPT-5.6 Sol": 2,
+      "Gemini 3.8 Flash": 1,
+      "Grok 4.6": 2,
+      "Kimi-K2.6": 1,
+      "Qwen3.8-Max": 1
+    },
+    "condition_correct_by_model": {
+      "Claude Opus 5": {
+        "A": 3,
+        "B": 6,
+        "C": 5,
+        "D": 5
+      },
+      "DeepSeek-V4-Pro": {
+        "A": 2,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "GLM-5.2": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 3
+      },
+      "GPT-5.6 Sol": {
+        "A": 4,
+        "B": 6,
+        "C": 2,
+        "D": 5
+      },
+      "Gemini 3.8 Flash": {
+        "A": 3,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "Grok 4.6": {
+        "A": 2,
+        "B": 6,
+        "C": 2,
+        "D": 6
+      },
+      "Kimi-K2.6": {
+        "A": 1,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "Qwen3.8-Max": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 3
+      }
+    }
+  },
+  "by_item": {
+    "E01": {
+      "kept_items": [
+        "E01"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 1,
+        "B": 8,
+        "C": 1,
+        "D": 4
+      },
+      "C_wrong": 7,
+      "C_wrong_with_correct_checks": 6,
+      "C_error_checked_fraction": 0.8571428571428571,
+      "C_checked_error_models": [
+        "DeepSeek-V4-Pro",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 1,
+        "both_wrong": 6,
+        "correct_to_wrong": 1
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 1,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 0,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 0,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GLM-5.2": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "GPT-5.6 Sol": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "Gemini 3.8 Flash": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Grok 4.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "Qwen3.8-Max": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        }
+      }
+    },
+    "E02": {
+      "kept_items": [
+        "E02"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 6,
+        "B": 8,
+        "C": 0,
+        "D": 7
+      },
+      "C_wrong": 8,
+      "C_wrong_with_correct_checks": 7,
+      "C_error_checked_fraction": 0.875,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6"
+      ],
+      "C_checked_error_items": [
+        "E02"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_wrong_C": 1,
+        "correct_to_wrong": 6,
+        "both_wrong": 1
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 0,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 0,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 0,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GLM-5.2": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "GPT-5.6 Sol": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Gemini 3.8 Flash": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Grok 4.6": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Qwen3.8-Max": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        }
+      }
+    },
+    "E03": {
+      "kept_items": [
+        "E03"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 6,
+        "B": 8,
+        "C": 3,
+        "D": 6
+      },
+      "C_wrong": 5,
+      "C_wrong_with_correct_checks": 5,
+      "C_error_checked_fraction": 1.0,
+      "C_checked_error_models": [
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "Gemini 3.8 Flash",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E03"
+      ],
+      "A_C_transitions": {
+        "both_correct": 3,
+        "both_wrong": 2,
+        "correct_to_wrong": 3
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 1,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 1,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 1,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 0
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "GLM-5.2": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GPT-5.6 Sol": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Gemini 3.8 Flash": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Grok 4.6": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Qwen3.8-Max": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        }
+      }
+    },
+    "E04": {
+      "kept_items": [
+        "E04"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 3,
+        "B": 8,
+        "C": 7,
+        "D": 8
+      },
+      "C_wrong": 1,
+      "C_wrong_with_correct_checks": 0,
+      "C_error_checked_fraction": 0.0,
+      "C_checked_error_models": [],
+      "C_checked_error_items": [],
+      "A_C_transitions": {
+        "both_correct": 3,
+        "wrong_to_correct": 4,
+        "both_wrong": 1
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 1,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 1,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 1,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "GLM-5.2": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GPT-5.6 Sol": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Gemini 3.8 Flash": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Grok 4.6": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "Qwen3.8-Max": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        }
+      }
+    },
+    "E05": {
+      "kept_items": [
+        "E05"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 0,
+        "B": 7,
+        "C": 1,
+        "D": 6
+      },
+      "C_wrong": 7,
+      "C_wrong_with_correct_checks": 7,
+      "C_error_checked_fraction": 1.0,
+      "C_checked_error_models": [
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E05"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 1,
+        "both_wrong": 7
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 1,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 0,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 0,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GLM-5.2": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 1
+        },
+        "GPT-5.6 Sol": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Gemini 3.8 Flash": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        },
+        "Grok 4.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Qwen3.8-Max": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 0
+        }
+      }
+    },
+    "E06": {
+      "kept_items": [
+        "E06"
+      ],
+      "positions_per_condition": 8,
+      "correct_by_condition": {
+        "A": 5,
+        "B": 7,
+        "C": 2,
+        "D": 6
+      },
+      "C_wrong": 6,
+      "C_wrong_with_correct_checks": 6,
+      "C_error_checked_fraction": 1.0,
+      "C_checked_error_models": [
+        "DeepSeek-V4-Pro",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E06"
+      ],
+      "A_C_transitions": {
+        "both_correct": 2,
+        "correct_to_wrong": 3,
+        "both_wrong": 3
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 1,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 0,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 0,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 1
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "GLM-5.2": {
+          "A": 1,
+          "B": 1,
+          "C": 1,
+          "D": 0
+        },
+        "GPT-5.6 Sol": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Gemini 3.8 Flash": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Grok 4.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 1
+        },
+        "Qwen3.8-Max": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 0
+        }
+      }
+    }
+  },
+  "leave_one_out": {
+    "E01": {
+      "kept_items": [
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 20,
+        "B": 38,
+        "C": 13,
+        "D": 33
+      },
+      "C_wrong": 27,
+      "C_wrong_with_correct_checks": 25,
+      "C_error_checked_fraction": 0.9259259259259259,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E02",
+        "E03",
+        "E05",
+        "E06"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_wrong_C": 1,
+        "both_correct": 8,
+        "missing_A_to_correct_C": 1,
+        "correct_to_wrong": 12,
+        "both_wrong": 14,
+        "wrong_to_correct": 4
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 4,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 2,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 2,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 3,
+          "B": 5,
+          "C": 4,
+          "D": 4
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "GLM-5.2": {
+          "A": 2,
+          "B": 4,
+          "C": 1,
+          "D": 3
+        },
+        "GPT-5.6 Sol": {
+          "A": 4,
+          "B": 5,
+          "C": 2,
+          "D": 5
+        },
+        "Gemini 3.8 Flash": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Grok 4.6": {
+          "A": 2,
+          "B": 5,
+          "C": 2,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 5
+        },
+        "Qwen3.8-Max": {
+          "A": 3,
+          "B": 4,
+          "C": 1,
+          "D": 3
+        }
+      }
+    },
+    "E02": {
+      "kept_items": [
+        "E01",
+        "E03",
+        "E04",
+        "E05",
+        "E06"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 15,
+        "B": 38,
+        "C": 14,
+        "D": 30
+      },
+      "C_wrong": 26,
+      "C_wrong_with_correct_checks": 24,
+      "C_error_checked_fraction": 0.9230769230769231,
+      "C_checked_error_models": [
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01",
+        "E03",
+        "E05",
+        "E06"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 2,
+        "both_correct": 8,
+        "both_wrong": 19,
+        "wrong_to_correct": 4,
+        "correct_to_wrong": 7
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 5,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 2,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 2,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 3,
+          "B": 5,
+          "C": 5,
+          "D": 4
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "GLM-5.2": {
+          "A": 3,
+          "B": 4,
+          "C": 1,
+          "D": 3
+        },
+        "GPT-5.6 Sol": {
+          "A": 3,
+          "B": 5,
+          "C": 2,
+          "D": 4
+        },
+        "Gemini 3.8 Flash": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Grok 4.6": {
+          "A": 1,
+          "B": 5,
+          "C": 2,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 0,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Qwen3.8-Max": {
+          "A": 2,
+          "B": 4,
+          "C": 1,
+          "D": 2
+        }
+      }
+    },
+    "E03": {
+      "kept_items": [
+        "E01",
+        "E02",
+        "E04",
+        "E05",
+        "E06"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 15,
+        "B": 38,
+        "C": 11,
+        "D": 31
+      },
+      "C_wrong": 29,
+      "C_wrong_with_correct_checks": 26,
+      "C_error_checked_fraction": 0.896551724137931,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01",
+        "E02",
+        "E05",
+        "E06"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 2,
+        "missing_A_to_wrong_C": 1,
+        "both_correct": 5,
+        "both_wrong": 18,
+        "correct_to_wrong": 10,
+        "wrong_to_correct": 4
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 4,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 1,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 1,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 2,
+          "B": 5,
+          "C": 4,
+          "D": 5
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 5
+        },
+        "GLM-5.2": {
+          "A": 2,
+          "B": 4,
+          "C": 1,
+          "D": 2
+        },
+        "GPT-5.6 Sol": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Gemini 3.8 Flash": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Grok 4.6": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Qwen3.8-Max": {
+          "A": 2,
+          "B": 4,
+          "C": 1,
+          "D": 2
+        }
+      }
+    },
+    "E04": {
+      "kept_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E05",
+        "E06"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 18,
+        "B": 38,
+        "C": 7,
+        "D": 29
+      },
+      "C_wrong": 33,
+      "C_wrong_with_correct_checks": 31,
+      "C_error_checked_fraction": 0.9393939393939394,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E05",
+        "E06"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 2,
+        "missing_A_to_wrong_C": 1,
+        "both_correct": 5,
+        "both_wrong": 19,
+        "correct_to_wrong": 13
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 4,
+        "DeepSeek-V4-Pro": 0,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 1,
+        "Gemini 3.8 Flash": 0,
+        "Grok 4.6": 1,
+        "Kimi-K2.6": 0,
+        "Qwen3.8-Max": 0
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 2,
+          "B": 5,
+          "C": 4,
+          "D": 4
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 2,
+          "B": 5,
+          "C": 0,
+          "D": 4
+        },
+        "GLM-5.2": {
+          "A": 3,
+          "B": 4,
+          "C": 1,
+          "D": 2
+        },
+        "GPT-5.6 Sol": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Gemini 3.8 Flash": {
+          "A": 2,
+          "B": 5,
+          "C": 0,
+          "D": 4
+        },
+        "Grok 4.6": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 5,
+          "C": 0,
+          "D": 4
+        },
+        "Qwen3.8-Max": {
+          "A": 3,
+          "B": 4,
+          "C": 0,
+          "D": 2
+        }
+      }
+    },
+    "E05": {
+      "kept_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E06"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 21,
+        "B": 39,
+        "C": 13,
+        "D": 31
+      },
+      "C_wrong": 27,
+      "C_wrong_with_correct_checks": 24,
+      "C_error_checked_fraction": 0.8888888888888888,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E06"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 1,
+        "missing_A_to_wrong_C": 1,
+        "both_correct": 8,
+        "both_wrong": 13,
+        "correct_to_wrong": 13,
+        "wrong_to_correct": 4
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 4,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 1,
+        "GPT-5.6 Sol": 2,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 2,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 3,
+          "B": 5,
+          "C": 4,
+          "D": 4
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "GLM-5.2": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 2
+        },
+        "GPT-5.6 Sol": {
+          "A": 4,
+          "B": 5,
+          "C": 2,
+          "D": 4
+        },
+        "Gemini 3.8 Flash": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 5
+        },
+        "Grok 4.6": {
+          "A": 2,
+          "B": 5,
+          "C": 2,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Qwen3.8-Max": {
+          "A": 3,
+          "B": 4,
+          "C": 1,
+          "D": 3
+        }
+      }
+    },
+    "E06": {
+      "kept_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05"
+      ],
+      "positions_per_condition": 40,
+      "correct_by_condition": {
+        "A": 16,
+        "B": 39,
+        "C": 12,
+        "D": 31
+      },
+      "C_wrong": 28,
+      "C_wrong_with_correct_checks": 25,
+      "C_error_checked_fraction": 0.8928571428571429,
+      "C_checked_error_models": [
+        "Claude Opus 5",
+        "DeepSeek-V4-Pro",
+        "GLM-5.2",
+        "GPT-5.6 Sol",
+        "Gemini 3.8 Flash",
+        "Grok 4.6",
+        "Kimi-K2.6",
+        "Qwen3.8-Max"
+      ],
+      "C_checked_error_items": [
+        "E01",
+        "E02",
+        "E03",
+        "E05"
+      ],
+      "A_C_transitions": {
+        "missing_A_to_correct_C": 2,
+        "missing_A_to_wrong_C": 1,
+        "both_correct": 6,
+        "both_wrong": 17,
+        "correct_to_wrong": 10,
+        "wrong_to_correct": 4
+      },
+      "C_correct_by_model": {
+        "Claude Opus 5": 4,
+        "DeepSeek-V4-Pro": 1,
+        "GLM-5.2": 0,
+        "GPT-5.6 Sol": 2,
+        "Gemini 3.8 Flash": 1,
+        "Grok 4.6": 2,
+        "Kimi-K2.6": 1,
+        "Qwen3.8-Max": 1
+      },
+      "condition_correct_by_model": {
+        "Claude Opus 5": {
+          "A": 2,
+          "B": 5,
+          "C": 4,
+          "D": 4
+        },
+        "DeepSeek-V4-Pro": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "GLM-5.2": {
+          "A": 2,
+          "B": 4,
+          "C": 0,
+          "D": 3
+        },
+        "GPT-5.6 Sol": {
+          "A": 3,
+          "B": 5,
+          "C": 2,
+          "D": 4
+        },
+        "Gemini 3.8 Flash": {
+          "A": 3,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Grok 4.6": {
+          "A": 2,
+          "B": 5,
+          "C": 2,
+          "D": 5
+        },
+        "Kimi-K2.6": {
+          "A": 1,
+          "B": 5,
+          "C": 1,
+          "D": 4
+        },
+        "Qwen3.8-Max": {
+          "A": 2,
+          "B": 5,
+          "C": 1,
+          "D": 3
+        }
+      }
+    }
+  },
+  "remove_E02_E03": {
+    "kept_items": [
+      "E01",
+      "E04",
+      "E05",
+      "E06"
+    ],
+    "positions_per_condition": 32,
+    "correct_by_condition": {
+      "A": 9,
+      "B": 30,
+      "C": 11,
+      "D": 24
+    },
+    "C_wrong": 21,
+    "C_wrong_with_correct_checks": 19,
+    "C_error_checked_fraction": 0.9047619047619048,
+    "C_checked_error_models": [
+      "DeepSeek-V4-Pro",
+      "GLM-5.2",
+      "GPT-5.6 Sol",
+      "Gemini 3.8 Flash",
+      "Grok 4.6",
+      "Kimi-K2.6",
+      "Qwen3.8-Max"
+    ],
+    "C_checked_error_items": [
+      "E01",
+      "E05",
+      "E06"
+    ],
+    "A_C_transitions": {
+      "missing_A_to_correct_C": 2,
+      "both_correct": 5,
+      "both_wrong": 17,
+      "wrong_to_correct": 4,
+      "correct_to_wrong": 4
+    },
+    "C_correct_by_model": {
+      "Claude Opus 5": 4,
+      "DeepSeek-V4-Pro": 1,
+      "GLM-5.2": 1,
+      "GPT-5.6 Sol": 1,
+      "Gemini 3.8 Flash": 1,
+      "Grok 4.6": 1,
+      "Kimi-K2.6": 1,
+      "Qwen3.8-Max": 1
+    },
+    "condition_correct_by_model": {
+      "Claude Opus 5": {
+        "A": 2,
+        "B": 4,
+        "C": 4,
+        "D": 4
+      },
+      "DeepSeek-V4-Pro": {
+        "A": 1,
+        "B": 4,
+        "C": 1,
+        "D": 4
+      },
+      "GLM-5.2": {
+        "A": 2,
+        "B": 3,
+        "C": 1,
+        "D": 2
+      },
+      "GPT-5.6 Sol": {
+        "A": 2,
+        "B": 4,
+        "C": 1,
+        "D": 3
+      },
+      "Gemini 3.8 Flash": {
+        "A": 1,
+        "B": 4,
+        "C": 1,
+        "D": 3
+      },
+      "Grok 4.6": {
+        "A": 0,
+        "B": 4,
+        "C": 1,
+        "D": 4
+      },
+      "Kimi-K2.6": {
+        "A": 0,
+        "B": 4,
+        "C": 1,
+        "D": 3
+      },
+      "Qwen3.8-Max": {
+        "A": 1,
+        "B": 3,
+        "C": 1,
+        "D": 1
+      }
+    }
+  }
+}

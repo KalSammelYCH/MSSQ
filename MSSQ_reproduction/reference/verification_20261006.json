@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "MAIN": 4608,
+  "S01": 768,
+  "S02": 768,
+  "S05": 111,
+  "candidate": 240,
+  "main_successes": 2399,
+  "full_quartets": 157,
+  "bootstrap_replayed": true,
+  "adopted_responses_only": true
+}

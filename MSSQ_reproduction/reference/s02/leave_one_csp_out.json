@@ -1,0 +1,4322 @@
+[
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.6739130434782609,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.11956521739130432
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.6630434782608695,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.11956521739130443
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.6739130434782609,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.11956521739130432
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.6739130434782609,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.11956521739130432
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.6847826086956522,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.6630434782608695,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.14130434782608692
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.6739130434782609,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.10869565217391308
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.6630434782608695,
+    "joint": 0.8043478260869565,
+    "joint_minus_independent": 0.14130434782608703
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.6630434782608695,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.6739130434782609,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.10869565217391308
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.6847826086956522,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.10869565217391297
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.6521739130434783,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.6956521739130435,
+    "joint": 0.8260869565217391,
+    "joint_minus_independent": 0.13043478260869568
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.6847826086956522,
+    "joint": 0.8260869565217391,
+    "joint_minus_independent": 0.14130434782608692
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.6956521739130435,
+    "joint": 0.8152173913043478,
+    "joint_minus_independent": 0.11956521739130432
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.6630434782608695,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.11956521739130443
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.7934782608695652,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.782608695652174,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.7934782608695652,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.782608695652174,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.010869565217391242
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.7934782608695652,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": -0.010869565217391242
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.782608695652174,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.010869565217391242
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.7934782608695652,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": -0.010869565217391242
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.782608695652174,
+    "joint": 0.8043478260869565,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.7934782608695652,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.8043478260869565,
+    "joint": 0.8260869565217391,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.7934782608695652,
+    "joint": 0.8260869565217391,
+    "joint_minus_independent": 0.03260869565217395
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.8152173913043478,
+    "joint": 0.8152173913043478,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Claude Opus 5",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.7717391304347826,
+    "joint": 0.782608695652174,
+    "joint_minus_independent": 0.010869565217391353
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.30434782608695654,
+    "joint_minus_independent": 0.08695652173913046
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": 0.06521739130434781
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": 0.05434782608695651
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.17391304347826086,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": 0.10869565217391303
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.07608695652173916
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.30434782608695654,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.03260869565217389
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.30434782608695654,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.03260869565217389
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": -0.043478260869565244
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": -0.05434782608695654
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.31521739130434784,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": -0.03260869565217395
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.06521739130434778
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.2826086956521739,
+    "joint_minus_independent": -0.043478260869565244
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.30434782608695654,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.03260869565217389
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.29347826086956524,
+    "joint_minus_independent": -0.03260869565217389
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "DeepSeek-V4-Pro",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.04347826086956519
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.07608695652173914,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.17391304347826086,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.17391304347826086,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.043478260869565216
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.03260869565217392
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.17391304347826086,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.16304347826086957,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.03260869565217389
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.043478260869565216
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.16304347826086957,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GLM-5.2",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.021739130434782622
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.09782608695652174,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.05434782608695653
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.06521739130434782
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.08695652173913043,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.09782608695652174,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": 0.05434782608695653
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.05434782608695653
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.09782608695652174,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": 0.06521739130434782
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": 0.06521739130434782
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.07608695652173912
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.09782608695652174,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": 0.08695652173913042
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.07608695652173914
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.2717391304347826,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.13043478260869568
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.11956521739130438
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.2717391304347826,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.10869565217391303
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.10869565217391303
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.15217391304347827,
+    "joint_minus_independent": -0.10869565217391303
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.07608695652173914
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.11956521739130432
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.16304347826086957,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.17391304347826086,
+    "joint_minus_independent": -0.10869565217391303
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.29347826086956524,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.10869565217391308
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.2826086956521739,
+    "joint": 0.18478260869565216,
+    "joint_minus_independent": -0.09782608695652173
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.0,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.0,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": 0.010869565217391304
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.021739130434782608
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.0,
+    "joint_minus_independent": -0.043478260869565216
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.010869565217391304,
+    "joint_minus_independent": -0.03260869565217391
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.2391304347826087,
+    "joint_minus_independent": 0.10869565217391305
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.2391304347826087,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.25,
+    "joint_minus_independent": 0.13043478260869565
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.10869565217391304,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.10869565217391304
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.10869565217391303
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.10869565217391303
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.09782608695652174,
+    "joint": 0.20652173913043478,
+    "joint_minus_independent": 0.10869565217391304
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.11956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.10869565217391303
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.13043478260869565,
+    "joint": 0.25,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.2391304347826087,
+    "joint_minus_independent": 0.03260869565217392
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.2391304347826087,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.25,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.03260869565217392
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.03260869565217389
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.16304347826086957,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.06521739130434781
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.18478260869565216,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.03260869565217392
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.21739130434782608,
+    "joint_minus_independent": 0.021739130434782594
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.03260869565217389
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.17391304347826086,
+    "joint": 0.20652173913043478,
+    "joint_minus_independent": 0.03260869565217392
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.22826086956521738,
+    "joint_minus_independent": 0.03260869565217389
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.1956521739130435,
+    "joint": 0.25,
+    "joint_minus_independent": 0.05434782608695651
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Grok 4.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.20652173913043478,
+    "joint": 0.25,
+    "joint_minus_independent": 0.043478260869565216
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.10869565217391305
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.10869565217391305
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.10869565217391305
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.10869565217391305
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.0,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.10869565217391304
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.010869565217391304,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.11956521739130435
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.03260869565217391,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.05434782608695652
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.05434782608695652
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.11956521739130435,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.043478260869565216,
+    "joint": 0.10869565217391304,
+    "joint_minus_independent": 0.06521739130434782
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Kimi-K2.6",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.05434782608695652,
+    "joint": 0.13043478260869565,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.06521739130434784
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.25,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.09782608695652173
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.2391304347826087,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.07608695652173914
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.21739130434782608,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.09782608695652176
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.2608695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.32608695652173914,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 92,
+    "independent": 0.33695652173913043,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.33695652173913043,
+    "joint_minus_independent": -0.021739130434782594
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 92,
+    "independent": 0.32608695652173914,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 92,
+    "independent": 0.31521739130434784,
+    "joint": 0.31521739130434784,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 92,
+    "independent": 0.358695652173913,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "Qwen3.8-Max",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 92,
+    "independent": 0.34782608695652173,
+    "joint": 0.34782608695652173,
+    "joint_minus_independent": 0.0
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 736,
+    "independent": 0.1875,
+    "joint": 0.2703804347826087,
+    "joint_minus_independent": 0.0828804347826087
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 736,
+    "independent": 0.18478260869565216,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 736,
+    "independent": 0.18885869565217392,
+    "joint": 0.2703804347826087,
+    "joint_minus_independent": 0.08152173913043478
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 736,
+    "independent": 0.18342391304347827,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": 0.08831521739130432
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 736,
+    "independent": 0.18206521739130435,
+    "joint": 0.25815217391304346,
+    "joint_minus_independent": 0.07608695652173911
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 736,
+    "independent": 0.18885869565217392,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": 0.0869565217391304
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 736,
+    "independent": 0.1875,
+    "joint": 0.27309782608695654,
+    "joint_minus_independent": 0.08559782608695654
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 736,
+    "independent": 0.19021739130434784,
+    "joint": 0.26902173913043476,
+    "joint_minus_independent": 0.07880434782608692
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 736,
+    "independent": 0.18614130434782608,
+    "joint": 0.264945652173913,
+    "joint_minus_independent": 0.07880434782608695
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 736,
+    "independent": 0.1793478260869565,
+    "joint": 0.25679347826086957,
+    "joint_minus_independent": 0.07744565217391305
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 736,
+    "independent": 0.1766304347826087,
+    "joint": 0.25815217391304346,
+    "joint_minus_independent": 0.08152173913043476
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 736,
+    "independent": 0.17527173913043478,
+    "joint": 0.25271739130434784,
+    "joint_minus_independent": 0.07744565217391305
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 736,
+    "independent": 0.18342391304347827,
+    "joint": 0.264945652173913,
+    "joint_minus_independent": 0.08152173913043476
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 736,
+    "independent": 0.18070652173913043,
+    "joint": 0.2595108695652174,
+    "joint_minus_independent": 0.07880434782608697
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 736,
+    "independent": 0.17119565217391305,
+    "joint": 0.25679347826086957,
+    "joint_minus_independent": 0.08559782608695651
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 736,
+    "independent": 0.1875,
+    "joint": 0.27445652173913043,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 736,
+    "independent": 0.1875,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": 0.08831521739130432
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 736,
+    "independent": 0.18206521739130435,
+    "joint": 0.26222826086956524,
+    "joint_minus_independent": 0.08016304347826089
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 736,
+    "independent": 0.19157608695652173,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": 0.0842391304347826
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 736,
+    "independent": 0.17798913043478262,
+    "joint": 0.26358695652173914,
+    "joint_minus_independent": 0.08559782608695651
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 736,
+    "independent": 0.19293478260869565,
+    "joint": 0.27853260869565216,
+    "joint_minus_independent": 0.08559782608695651
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 736,
+    "independent": 0.19157608695652173,
+    "joint": 0.2798913043478261,
+    "joint_minus_independent": 0.08831521739130438
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 736,
+    "independent": 0.19293478260869565,
+    "joint": 0.27853260869565216,
+    "joint_minus_independent": 0.08559782608695651
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "paired_success",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 736,
+    "independent": 0.1875,
+    "joint": 0.27445652173913043,
+    "joint_minus_independent": 0.08695652173913043
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_002",
+    "n": 736,
+    "independent": 0.28396739130434784,
+    "joint": 0.2703804347826087,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_balanced_003",
+    "n": 736,
+    "independent": 0.2798913043478261,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": -0.008152173913043514
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_notprare_001",
+    "n": 736,
+    "independent": 0.2798913043478261,
+    "joint": 0.2703804347826087,
+    "joint_minus_independent": -0.009510869565217406
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_richer_prare_001",
+    "n": 736,
+    "independent": 0.27445652173913043,
+    "joint": 0.2717391304347826,
+    "joint_minus_independent": -0.002717391304347838
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_001",
+    "n": 736,
+    "independent": 0.2717391304347826,
+    "joint": 0.25815217391304346,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_balanced_002",
+    "n": 736,
+    "independent": 0.28532608695652173,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": -0.009510869565217406
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_notprare_001",
+    "n": 736,
+    "independent": 0.28396739130434784,
+    "joint": 0.27309782608695654,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "bijective_matching",
+    "omitted_csp_id": "bijective_matching__development__sequential_sparse_prare_001_new",
+    "n": 736,
+    "independent": 0.28804347826086957,
+    "joint": 0.26902173913043476,
+    "joint_minus_independent": -0.01902173913043481
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0001",
+    "n": 736,
+    "independent": 0.27853260869565216,
+    "joint": 0.264945652173913,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0002",
+    "n": 736,
+    "independent": 0.264945652173913,
+    "joint": 0.25679347826086957,
+    "joint_minus_independent": -0.008152173913043459
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0003",
+    "n": 736,
+    "independent": 0.2717391304347826,
+    "joint": 0.25815217391304346,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0004",
+    "n": 736,
+    "independent": 0.266304347826087,
+    "joint": 0.25271739130434784,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0005",
+    "n": 736,
+    "independent": 0.2798913043478261,
+    "joint": 0.264945652173913,
+    "joint_minus_independent": -0.014945652173913082
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0006",
+    "n": 736,
+    "independent": 0.27309782608695654,
+    "joint": 0.2595108695652174,
+    "joint_minus_independent": -0.013586956521739135
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0007",
+    "n": 736,
+    "independent": 0.26358695652173914,
+    "joint": 0.25679347826086957,
+    "joint_minus_independent": -0.006793478260869568
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "frequency_assignment",
+    "omitted_csp_id": "mssq_frequency_0008",
+    "n": 736,
+    "independent": 0.28532608695652173,
+    "joint": 0.27445652173913043,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0001",
+    "n": 736,
+    "independent": 0.28125,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": -0.005434782608695676
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0002",
+    "n": 736,
+    "independent": 0.27445652173913043,
+    "joint": 0.26222826086956524,
+    "joint_minus_independent": -0.012228260869565188
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0003",
+    "n": 736,
+    "independent": 0.28532608695652173,
+    "joint": 0.2758152173913043,
+    "joint_minus_independent": -0.009510869565217406
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0004",
+    "n": 736,
+    "independent": 0.26902173913043476,
+    "joint": 0.26358695652173914,
+    "joint_minus_independent": -0.005434782608695621
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0005",
+    "n": 736,
+    "independent": 0.28804347826086957,
+    "joint": 0.27853260869565216,
+    "joint_minus_independent": -0.009510869565217406
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0006",
+    "n": 736,
+    "independent": 0.2866847826086957,
+    "joint": 0.2798913043478261,
+    "joint_minus_independent": -0.006793478260869568
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0007",
+    "n": 736,
+    "independent": 0.28940217391304346,
+    "joint": 0.27853260869565216,
+    "joint_minus_independent": -0.010869565217391297
+  },
+  {
+    "model": "ALL pooled",
+    "endpoint": "valid_construction",
+    "omitted_family": "scheduling",
+    "omitted_csp_id": "csp_0008",
+    "n": 736,
+    "independent": 0.2826086956521739,
+    "joint": 0.27445652173913043,
+    "joint_minus_independent": -0.008152173913043459
+  }
+]

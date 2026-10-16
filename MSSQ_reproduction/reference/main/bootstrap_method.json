@@ -1,0 +1,9 @@
+{
+  "method": "family-balanced, family×stratum CSP-cluster percentile bootstrap sensitivity interval",
+  "replicates": 10000,
+  "seed": 27017,
+  "draws_per_family_stratum": 4,
+  "original_csps_per_family_stratum": 4,
+  "nominal_cluster_draws_per_replicate": 24,
+  "paired_structure_preserved": true
+}

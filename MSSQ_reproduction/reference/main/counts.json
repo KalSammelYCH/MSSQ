@@ -1,0 +1,89 @@
+{
+  "total": {
+    "direct": 497,
+    "modal_correct": 437,
+    "full": 157,
+    "both_valid": 62,
+    "both_valid_wrong_judgments": 18,
+    "both_valid_unavailable_judgments": 5,
+    "nonempty_dependent": 279,
+    "compatible": 178,
+    "indeterminate": 198
+  },
+  "by_model": {
+    "GPT-5.6 Sol": {
+      "direct": 60,
+      "nonempty_dependent": 61,
+      "compatible": 11,
+      "indeterminate": 12
+    },
+    "Grok 4.6": {
+      "nonempty_dependent": 36,
+      "direct": 82,
+      "compatible": 19,
+      "indeterminate": 7
+    },
+    "DeepSeek-V4-Pro": {
+      "direct": 74,
+      "nonempty_dependent": 37,
+      "compatible": 29,
+      "indeterminate": 4
+    },
+    "GLM-5.2": {
+      "nonempty_dependent": 44,
+      "direct": 60,
+      "compatible": 16,
+      "indeterminate": 24
+    },
+    "Qwen3.8-Max": {
+      "direct": 49,
+      "nonempty_dependent": 43,
+      "compatible": 41,
+      "indeterminate": 11
+    },
+    "Kimi-K2.6": {
+      "nonempty_dependent": 42,
+      "direct": 87,
+      "indeterminate": 12,
+      "compatible": 3
+    },
+    "Claude Opus 5": {
+      "indeterminate": 79,
+      "compatible": 57,
+      "direct": 8
+    },
+    "Gemini 3.8 Flash": {
+      "direct": 77,
+      "indeterminate": 49,
+      "nonempty_dependent": 16,
+      "compatible": 2
+    }
+  },
+  "failures_given_correct_judgments": {
+    "false_NONE": 176,
+    "full": 157,
+    "invalid": 62,
+    "false_NONE+invalid": 14,
+    "unavailable": 23,
+    "false_NONE+unavailable": 2,
+    "invalid+unavailable": 3
+  },
+  "existence_declarations": {
+    "may_all": 570,
+    "may_all_valid": 168,
+    "must_all": 359,
+    "must_all_valid": 134,
+    "must_gold_correct": 319,
+    "must_gold_correct_valid": 134,
+    "may_gold_correct": 456,
+    "may_gold_correct_valid": 168
+  },
+  "contingent_constructions": {
+    "counterexample_only": 32,
+    "neither": 232,
+    "witness_only": 58,
+    "both": 62
+  },
+  "wrong_judgment_csps": 10,
+  "wrong_judgment_models": 6
+}

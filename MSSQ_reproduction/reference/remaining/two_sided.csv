@@ -1,0 +1,10 @@
+scope,model,contingent_quartet_n,two_sided_n,full_quartet_n,two_sided_without_correct_judgment_n,valid_witness_n,valid_counterexample_n,witness_only_n,counterexample_only_n,neither_n
+model,Claude Opus 5,48,33,27,6,37,38,4,5,6
+model,Qwen3.8-Max,48,8,6,2,20,13,12,5,23
+model,DeepSeek-V4-Pro,48,7,3,4,20,13,13,6,22
+model,Grok 4.6,48,3,1,2,13,6,10,3,32
+model,GLM-5.2,48,4,0,4,10,8,6,4,34
+model,GPT-5.6 Sol,48,6,1,5,14,13,8,7,27
+model,Kimi-K2.6,48,0,0,0,4,1,4,1,43
+model,Gemini 3.8 Flash,48,1,1,0,2,2,1,1,45
+overall,ALL,384,62,39,23,120,94,58,32,232

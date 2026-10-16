@@ -1,0 +1,266 @@
+{
+  "Claude Opus 5": {
+    "answer_formed": {
+      "n": 394,
+      "denominator": 576,
+      "rate": 0.6840277777777778
+    },
+    "success_given_answer": {
+      "n": 385,
+      "denominator": 394,
+      "rate": 0.9771573604060914
+    },
+    "complete_construction_submission": {
+      "n": 141,
+      "denominator": 192,
+      "rate": 0.734375
+    },
+    "valid_given_complete_construction": {
+      "n": 141,
+      "denominator": 141,
+      "rate": 1.0
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 3,
+      "explicit_judgment_error": 6,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 153,
+      "provider_refusal": 29,
+      "public_constraint_violation": 0,
+      "strict_success": 385,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 3
+  },
+  "Qwen3.8-Max": {
+    "answer_formed": {
+      "n": 563,
+      "denominator": 576,
+      "rate": 0.9774305555555556
+    },
+    "success_given_answer": {
+      "n": 344,
+      "denominator": 563,
+      "rate": 0.61101243339254
+    },
+    "complete_construction_submission": {
+      "n": 86,
+      "denominator": 192,
+      "rate": 0.4479166666666667
+    },
+    "valid_given_complete_construction": {
+      "n": 78,
+      "denominator": 86,
+      "rate": 0.9069767441860465
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 100,
+      "explicit_judgment_error": 108,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 13,
+      "provider_refusal": 0,
+      "public_constraint_violation": 11,
+      "strict_success": 344,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 100
+  },
+  "DeepSeek-V4-Pro": {
+    "answer_formed": {
+      "n": 566,
+      "denominator": 576,
+      "rate": 0.9826388888888888
+    },
+    "success_given_answer": {
+      "n": 330,
+      "denominator": 566,
+      "rate": 0.5830388692579506
+    },
+    "complete_construction_submission": {
+      "n": 63,
+      "denominator": 192,
+      "rate": 0.328125
+    },
+    "valid_given_complete_construction": {
+      "n": 60,
+      "denominator": 63,
+      "rate": 0.9523809523809523
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 127,
+      "explicit_judgment_error": 106,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 10,
+      "provider_refusal": 0,
+      "public_constraint_violation": 3,
+      "strict_success": 330,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 127
+  },
+  "Grok 4.6": {
+    "answer_formed": {
+      "n": 575,
+      "denominator": 576,
+      "rate": 0.9982638888888888
+    },
+    "success_given_answer": {
+      "n": 304,
+      "denominator": 575,
+      "rate": 0.528695652173913
+    },
+    "complete_construction_submission": {
+      "n": 49,
+      "denominator": 192,
+      "rate": 0.2552083333333333
+    },
+    "valid_given_complete_construction": {
+      "n": 43,
+      "denominator": 49,
+      "rate": 0.8775510204081632
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 143,
+      "explicit_judgment_error": 118,
+      "incomplete_task_payload": 1,
+      "persistent_budget_noncompletion": 0,
+      "provider_refusal": 0,
+      "public_constraint_violation": 10,
+      "strict_success": 304,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 143
+  },
+  "GLM-5.2": {
+    "answer_formed": {
+      "n": 555,
+      "denominator": 576,
+      "rate": 0.9635416666666666
+    },
+    "success_given_answer": {
+      "n": 263,
+      "denominator": 555,
+      "rate": 0.47387387387387386
+    },
+    "complete_construction_submission": {
+      "n": 85,
+      "denominator": 192,
+      "rate": 0.4427083333333333
+    },
+    "valid_given_complete_construction": {
+      "n": 42,
+      "denominator": 85,
+      "rate": 0.49411764705882355
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 96,
+      "explicit_judgment_error": 129,
+      "incomplete_task_payload": 1,
+      "persistent_budget_noncompletion": 13,
+      "provider_refusal": 0,
+      "public_constraint_violation": 67,
+      "strict_success": 263,
+      "unrecoverable_task_payload": 7
+    },
+    "false_none_required": 96
+  },
+  "GPT-5.6 Sol": {
+    "answer_formed": {
+      "n": 576,
+      "denominator": 576,
+      "rate": 1.0
+    },
+    "success_given_answer": {
+      "n": 276,
+      "denominator": 576,
+      "rate": 0.4791666666666667
+    },
+    "complete_construction_submission": {
+      "n": 71,
+      "denominator": 192,
+      "rate": 0.3697916666666667
+    },
+    "valid_given_complete_construction": {
+      "n": 45,
+      "denominator": 71,
+      "rate": 0.6338028169014085
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 121,
+      "explicit_judgment_error": 146,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 0,
+      "provider_refusal": 0,
+      "public_constraint_violation": 33,
+      "strict_success": 276,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 121
+  },
+  "Kimi-K2.6": {
+    "answer_formed": {
+      "n": 571,
+      "denominator": 576,
+      "rate": 0.9913194444444444
+    },
+    "success_given_answer": {
+      "n": 251,
+      "denominator": 571,
+      "rate": 0.4395796847635727
+    },
+    "complete_construction_submission": {
+      "n": 21,
+      "denominator": 192,
+      "rate": 0.109375
+    },
+    "valid_given_complete_construction": {
+      "n": 9,
+      "denominator": 21,
+      "rate": 0.42857142857142855
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 167,
+      "explicit_judgment_error": 138,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 5,
+      "provider_refusal": 0,
+      "public_constraint_violation": 15,
+      "strict_success": 251,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 167
+  },
+  "Gemini 3.8 Flash": {
+    "answer_formed": {
+      "n": 576,
+      "denominator": 576,
+      "rate": 1.0
+    },
+    "success_given_answer": {
+      "n": 246,
+      "denominator": 576,
+      "rate": 0.4270833333333333
+    },
+    "complete_construction_submission": {
+      "n": 67,
+      "denominator": 192,
+      "rate": 0.3489583333333333
+    },
+    "valid_given_complete_construction": {
+      "n": 8,
+      "denominator": 67,
+      "rate": 0.11940298507462686
+    },
+    "states": {
+      "erroneous_nonexistence_claim": 125,
+      "explicit_judgment_error": 130,
+      "incomplete_task_payload": 0,
+      "persistent_budget_noncompletion": 0,
+      "provider_refusal": 0,
+      "public_constraint_violation": 75,
+      "strict_success": 246,
+      "unrecoverable_task_payload": 0
+    },
+    "false_none_required": 125
+  }
+}

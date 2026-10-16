@@ -1,0 +1,1001 @@
+[
+  {
+    "anchor_id": "deepseek_bijective_en_false_none_richer_balanced_002_contingent_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_bijective_en_false_none_richer_balanced_002_contingent_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_false_none_0001_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_false_none_0001_contingent_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_necessary_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_necessary_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_frequency_en_invalid_0003_necessary_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_mssq_frequency_0003_necessary_zh_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_mssq_frequency_0003_necessary_zh_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_mssq_frequency_0003_necessary_zh_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_schedule_en_false_none_mssq_0001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "deepseek_schedule_en_false_none_mssq_0001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": false,
+    "truncated": true,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_bijective_en_false_none_richer_balanced_003_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_bijective_en_false_none_richer_balanced_003_contingent_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_bijective_en_invalid_richer_balanced_002_contingent_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_bijective_en_invalid_richer_balanced_002_contingent_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_bijective_en_invalid_richer_balanced_002_contingent_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_frequency_en_false_none_mssq_frequency_0006_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_frequency_en_false_none_mssq_frequency_0006_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_frequency_en_invalid_mssq_frequency_0001_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_frequency_en_invalid_mssq_frequency_0001_contingent_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_frequency_en_invalid_mssq_frequency_0001_contingent_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_schedule_zh_false_none_mssq_0001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_schedule_zh_false_none_mssq_0001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_schedule_zh_invalid_mssq_0002_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_schedule_zh_invalid_mssq_0002_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "glm52_schedule_zh_invalid_mssq_0002_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_bijective_en_false_none_sparse_balanced_001_necessary_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_bijective_en_false_none_sparse_balanced_001_necessary_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_bijective_en_invalid_sparse_balanced_001_contingent_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_bijective_en_invalid_sparse_balanced_001_contingent_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_bijective_en_invalid_sparse_balanced_001_contingent_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_frequency_en_false_none_0001_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_frequency_en_false_none_0001_contingent_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_frequency_en_invalid_0003_impossible_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_schedule_en_false_none_0001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_schedule_en_false_none_0001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_schedule_en_invalid_0017_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_schedule_en_invalid_0017_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gpt56sol_schedule_en_invalid_0017_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_bijective_en_false_none_richer_balanced_002_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_bijective_en_false_none_richer_balanced_002_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_frequency_en_false_none_mssq_frequency_0001_necessary_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_frequency_en_false_none_mssq_frequency_0001_necessary_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok_mssq_frequency_0003_impossible_zh_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok_mssq_frequency_0003_impossible_zh_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok_mssq_frequency_0003_impossible_zh_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_false_none_mssq_0002_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_false_none_mssq_0002_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0017_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0017_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0017_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0023_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0023_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "grok46_schedule_en_invalid_mssq_0023_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_bijective_en_false_none_sparse_balanced_001_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_bijective_en_false_none_sparse_balanced_001_impossible_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_false_none_0001_contingent_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_false_none_0001_contingent_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0002_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0002_impossible_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": false,
+    "truncated": true,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0002_impossible_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0003_necessary_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0003_necessary_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0003_necessary_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0007_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0007_contingent_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_frequency_en_invalid_0007_contingent_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_schedule_en_false_none_0001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "kimi_k26_schedule_en_false_none_0001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": false,
+    "truncated": true,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__scheduling__en__mssq_0002__witness__invalid_complete_construction",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__scheduling__en__mssq_0002__witness__invalid_complete_construction",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__scheduling__en__mssq_0002__witness__invalid_complete_construction",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__frequency_assignment__en__mssq_frequency_0001_contingent__witness__invalid_complete_construction",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__frequency_assignment__en__mssq_frequency_0001_contingent__witness__invalid_complete_construction",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__frequency_assignment__en__mssq_frequency_0001_contingent__witness__invalid_complete_construction",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__bijective_matching__en__bijective_matching__development__sequential_richer_prare_001__contingent__quartet__en__counterexample__invalid_complete_construction",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__bijective_matching__en__bijective_matching__development__sequential_richer_prare_001__contingent__quartet__en__counterexample__invalid_complete_construction",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__bijective_matching__en__bijective_matching__development__sequential_richer_prare_001__contingent__quartet__en__counterexample__invalid_complete_construction",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__scheduling__en__mssq_0001__witness__false_nonexistence",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__frequency_assignment__en__mssq_frequency_0001_contingent__counterexample__false_nonexistence",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__scheduling__en__mssq_0001__witness__false_nonexistence",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__bijective_matching__en__bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__counterexample__false_nonexistence",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__frequency_assignment__en__mssq_frequency_0001_contingent__counterexample__false_nonexistence",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "gemini38__bijective_matching__en__bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__counterexample__false_nonexistence",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_bijective_en_false_none_sparse_balanced_001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_bijective_en_false_none_sparse_balanced_001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_bijective_zh_invalid_richer_balanced_003_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_bijective_zh_invalid_richer_balanced_003_impossible_counterexample",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": false,
+    "truncated": true,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_bijective_zh_invalid_richer_balanced_003_impossible_counterexample",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_false_none_0001_contingent_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_false_none_0001_contingent_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": false,
+    "semantic_recoverable": false,
+    "truncated": true,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0004_necessary_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0004_necessary_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0004_necessary_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": false,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0005_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0005_contingent_witness",
+    "arm": "diagnostic",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_frequency_en_invalid_0005_contingent_witness",
+    "arm": "reject_only",
+    "original_failure_status": "invalid_complete_construction",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_schedule_en_false_none_0001_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "qwen38max_schedule_en_false_none_0001_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_bijective_zh_false_none_sparse_balanced_001_contingent_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_bijective_zh_false_none_sparse_balanced_001_contingent_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_frequency_en_false_none_0006_impossible_counterexample",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_frequency_en_false_none_0006_impossible_counterexample",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_schedule_zh_false_none_mssq_0004_witness",
+    "arm": "blind",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  },
+  {
+    "anchor_id": "claude_opus5_schedule_zh_false_none_mssq_0004_witness",
+    "arm": "existence_certified",
+    "original_failure_status": "false_nonexistence",
+    "construction_submitted": true,
+    "semantic_recoverable": true,
+    "truncated": false,
+    "explicit_refusal": false
+  }
+]

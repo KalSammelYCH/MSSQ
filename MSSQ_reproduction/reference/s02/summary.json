@@ -1,0 +1,77 @@
+{
+  "totals": {
+    "paired_success": {
+      "n": 768,
+      "independent": 142,
+      "joint": 206,
+      "difference_pp": 8.333333333333334
+    },
+    "valid_construction": {
+      "n": 768,
+      "independent": 214,
+      "joint": 206,
+      "difference_pp": -1.041666666666663
+    }
+  },
+  "conditional": {
+    "joint_judgment_correct": 335,
+    "joint_construction_submitted_given_correct_judgment": 332,
+    "joint_task_success": 206
+  },
+  "pooled_intervals": [
+    {
+      "model": "ALL pooled",
+      "endpoint": "paired_success",
+      "metric": "independent",
+      "point": 0.18489583333333334,
+      "low": 0.1484375,
+      "high": 0.22265625,
+      "replicates": 10000
+    },
+    {
+      "model": "ALL pooled",
+      "endpoint": "paired_success",
+      "metric": "joint",
+      "point": 0.2682291666666667,
+      "low": 0.21875,
+      "high": 0.3190104166666667,
+      "replicates": 10000
+    },
+    {
+      "model": "ALL pooled",
+      "endpoint": "paired_success",
+      "metric": "joint_minus_independent",
+      "point": 0.08333333333333334,
+      "low": 0.05338541666666666,
+      "high": 0.11328125,
+      "replicates": 10000
+    },
+    {
+      "model": "ALL pooled",
+      "endpoint": "valid_construction",
+      "metric": "independent",
+      "point": 0.2786458333333333,
+      "low": 0.2265625,
+      "high": 0.3333333333333333,
+      "replicates": 10000
+    },
+    {
+      "model": "ALL pooled",
+      "endpoint": "valid_construction",
+      "metric": "joint",
+      "point": 0.2682291666666667,
+      "low": 0.21875,
+      "high": 0.3190104166666667,
+      "replicates": 10000
+    },
+    {
+      "model": "ALL pooled",
+      "endpoint": "valid_construction",
+      "metric": "joint_minus_independent",
+      "point": -0.01041666666666663,
+      "low": -0.03776041666666663,
+      "high": 0.015625,
+      "replicates": 10000
+    }
+  ]
+}

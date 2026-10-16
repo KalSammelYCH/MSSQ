@@ -1,0 +1,66 @@
+[
+  {
+    "family": "bijective_matching",
+    "language": "en",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__counterexample",
+    "prompt_file": "prompts/bijective_matching/en/p001.md",
+    "sha256": "8bfe8f5ea301005a01a1126477de3beb74ff4811129a582520a7f276b8d1b494",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "en",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__may",
+    "prompt_file": "prompts/bijective_matching/en/p002.md",
+    "sha256": "d98d3c483f72c735b0e99f2e09cefdca8ab2a4a154b918272c041d754869b63c",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "en",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__must",
+    "prompt_file": "prompts/bijective_matching/en/p003.md",
+    "sha256": "2cd55ccd2b86e550153132934d1db7235ec43eb82e94cdd3d08a0c2f1930c760",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "en",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__en__witness",
+    "prompt_file": "prompts/bijective_matching/en/p004.md",
+    "sha256": "7a5b0708c44da8fe82066a011338b6366ee5a846dda6155b2b4187151de7510a",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "zh",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__zh__counterexample",
+    "prompt_file": "prompts/bijective_matching/zh/p097.md",
+    "sha256": "0e2f76f08d63d1f31ed2b30fa0f71f3b569e1a7c2e4dbe4f44b792aa05a5582e",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "zh",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__zh__may",
+    "prompt_file": "prompts/bijective_matching/zh/p098.md",
+    "sha256": "0d317afb48fa426bf1b7c469c6f8ccc3f22ffe6894ecd130e253d04a0d7e846c",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "zh",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__zh__must",
+    "prompt_file": "prompts/bijective_matching/zh/p099.md",
+    "sha256": "1f86bc6c9a79ff0644bd420dc4ea999528e28a79ea47d2ea17389180cf024347",
+    "exact_render_match": true
+  },
+  {
+    "family": "bijective_matching",
+    "language": "zh",
+    "prompt_id": "bijective_matching__development__sequential_richer_balanced_002__contingent__quartet__zh__witness",
+    "prompt_file": "prompts/bijective_matching/zh/p100.md",
+    "sha256": "392e0952612158bd125616548010b5cd25914674fc6cbaee435463690e5c4e1e",
+    "exact_render_match": true
+  }
+]

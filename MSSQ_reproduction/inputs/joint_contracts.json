@@ -1,0 +1,1986 @@
+{
+  "joint__bijective_matching__formal_csp0001__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0001__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0001__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0001__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0001__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0001__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0001__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0001__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0002__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0002__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0002__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0002__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0002__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0002__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0002__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0002__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0003__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0003__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0003__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0003__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0003__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0003__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0003__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0003__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0004__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0004__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0004__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0004__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0004__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0004__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0004__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0004__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0005__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0005__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0005__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0005__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0005__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0005__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0005__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0005__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0006__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0006__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0006__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0006__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0006__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0006__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0006__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0006__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0007__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0007__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0007__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0007__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0007__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0007__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0007__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0007__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0008__en__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0008__en__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0008__en__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0008__en__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0008__zh__may_witness": {
+    "prompt_id": "joint__bijective_matching__formal_csp0008__zh__may_witness",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__bijective_matching__formal_csp0008__zh__must_counterexample": {
+    "prompt_id": "joint__bijective_matching__formal_csp0008__zh__must_counterexample",
+    "family": "bijective_matching",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment"
+      ],
+      "judgment_labels": [
+        "YES",
+        "NO"
+      ],
+      "reasoning_summary": null,
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0001__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0001__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0001__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0001__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0001__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0001__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0001__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0001__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0002__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0002__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0002__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0002__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0002__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0002__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0002__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0002__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0003__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0003__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0003__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0003__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0003__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0003__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0003__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0003__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0004__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0004__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0004__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0004__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0004__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0004__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0004__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0004__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0005__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0005__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0005__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0005__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0005__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0005__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0005__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0005__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0006__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0006__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0006__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0006__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0006__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0006__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0006__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0006__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0007__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0007__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0007__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0007__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0007__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0007__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0007__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0007__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0008__en__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0008__en__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0008__en__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0008__en__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0008__zh__may_witness": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0008__zh__may_witness",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__frequency_assignment__formal_csp0008__zh__must_counterexample": {
+    "prompt_id": "joint__frequency_assignment__formal_csp0008__zh__must_counterexample",
+    "family": "frequency_assignment",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "assignment",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "exact_item_count": 1,
+        "statement_max_sentences": 2
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0001__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0001__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0001__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0001__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0001__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0001__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0001__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0001__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0002__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0002__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0002__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0002__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0002__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0002__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0002__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0002__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0003__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0003__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0003__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0003__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0003__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0003__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0003__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0003__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0004__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0004__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0004__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0004__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0004__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0004__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0004__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0004__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0005__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0005__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0005__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0005__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0005__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0005__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0005__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0005__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0006__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0006__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0006__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0006__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0006__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0006__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0006__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0006__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0007__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0007__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0007__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0007__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0007__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0007__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0007__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0007__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0008__en__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0008__en__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0008__en__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0008__en__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "yes",
+        "no"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0008__zh__may_witness": {
+    "prompt_id": "joint__scheduling__formal_csp0008__zh__may_witness",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "may_witness",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  },
+  "joint__scheduling__formal_csp0008__zh__must_counterexample": {
+    "prompt_id": "joint__scheduling__formal_csp0008__zh__must_counterexample",
+    "family": "scheduling",
+    "response_contract": {
+      "conditional_construction": true,
+      "direction": "must_counterexample",
+      "fields": [
+        "judgment",
+        "schedule",
+        "reasoning_summary"
+      ],
+      "judgment_labels": [
+        "是",
+        "否"
+      ],
+      "reasoning_summary": {
+        "max_item_count": 8,
+        "min_item_count": 1
+      },
+      "type": "joint_json_v1"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "profiles": {
+    "hard_18x9_pair2": {
+      "name": "hard_18x9_pair2",
+      "people_count": 18,
+      "days": 3,
+      "periods": ["上午", "下午", "晚上"],
+      "slot_capacity": {
+        "mode": "fixed",
+        "value": 2
+      },
+      "recommended_template_weights": {
+        "count_day_tod": 0.32,
+        "count_order": 0.25,
+        "conditional": 0.23,
+        "simple_relation": 0.20,
+        "direct_same_session": 0.0
+      }
+    },
+    "mechanism_12x6_pair2": {
+      "name": "mechanism_12x6_pair2",
+      "people_count": 12,
+      "days": 2,
+      "periods": ["上午", "下午", "晚上"],
+      "slot_capacity": {
+        "mode": "fixed",
+        "value": 2
+      },
+      "sampling_ranges": {
+        "count_day_tod": [4, 7],
+        "count_order": [4, 7],
+        "conditional_same_period_count": [3, 6]
+      },
+      "recommended_template_weights": {
+        "count_day_tod": 0.45,
+        "count_order": 0.25,
+        "conditional": 0.10,
+        "simple_relation": 0.20,
+        "direct_same_session": 0.0
+      }
+    },
+    "screening_16x8_pair2": {
+      "name": "screening_16x8_pair2",
+      "people_count": 16,
+      "days": 4,
+      "periods": ["上午", "下午"],
+      "slot_capacity": {
+        "mode": "fixed",
+        "value": 2
+      },
+      "sampling_ranges": {
+        "count_day_tod": [5, 8],
+        "count_order": [5, 8],
+        "conditional_same_period_count": [4, 7]
+      },
+      "recommended_template_weights": {
+        "count_day_tod": 0.38,
+        "count_order": 0.27,
+        "conditional": 0.17,
+        "simple_relation": 0.18,
+        "direct_same_session": 0.0
+      }
+    }
+  }
+}

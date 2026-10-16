@@ -1,0 +1,265 @@
+{
+  "models": {
+    "deepseek": {
+      "core": {
+        "A": 2,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "controls": 6,
+      "checks": [
+        "22/0/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 1,
+        "C": 1,
+        "D": 2
+      },
+      "C_items": [
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 2,
+        "C": 2,
+        "D": 2
+      }
+    },
+    "glm": {
+      "core": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 3
+      },
+      "controls": 4,
+      "checks": [
+        "17/4/1",
+        "19/1/2"
+      ],
+      "explicit": {
+        "A": 1,
+        "C": 0,
+        "D": 1
+      },
+      "C_items": [
+        "E06"
+      ],
+      "control_conditions": {
+        "A": 1,
+        "C": 2,
+        "D": 1
+      }
+    },
+    "qwen": {
+      "core": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 3
+      },
+      "controls": 5,
+      "checks": [
+        "19/3/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 1,
+        "C": 1,
+        "D": 1
+      },
+      "C_items": [
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 1,
+        "C": 2,
+        "D": 2
+      }
+    },
+    "kimi": {
+      "core": {
+        "A": 1,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "controls": 6,
+      "checks": [
+        "21/1/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 0,
+        "C": 1,
+        "D": 1
+      },
+      "C_items": [
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 2,
+        "C": 2,
+        "D": 2
+      }
+    },
+    "gpt": {
+      "core": {
+        "A": 4,
+        "B": 6,
+        "C": 2,
+        "D": 5
+      },
+      "controls": 6,
+      "checks": [
+        "21/1/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 1,
+        "C": 0,
+        "D": 5
+      },
+      "C_items": [
+        "E03",
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 2,
+        "C": 2,
+        "D": 2
+      }
+    },
+    "grok": {
+      "core": {
+        "A": 2,
+        "B": 6,
+        "C": 2,
+        "D": 6
+      },
+      "controls": 6,
+      "checks": [
+        "22/0/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 0,
+        "C": 1,
+        "D": 0
+      },
+      "C_items": [
+        "E03",
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 2,
+        "C": 2,
+        "D": 2
+      }
+    },
+    "claude": {
+      "core": {
+        "A": 3,
+        "B": 6,
+        "C": 5,
+        "D": 5
+      },
+      "controls": 3,
+      "checks": [
+        "20/0/2",
+        "20/0/2"
+      ],
+      "explicit": {
+        "A": 3,
+        "C": 5,
+        "D": 5
+      },
+      "C_items": [
+        "E01",
+        "E03",
+        "E04",
+        "E05",
+        "E06"
+      ],
+      "control_conditions": {
+        "A": 1,
+        "C": 1,
+        "D": 1
+      }
+    },
+    "gemini": {
+      "core": {
+        "A": 3,
+        "B": 6,
+        "C": 1,
+        "D": 5
+      },
+      "controls": 4,
+      "checks": [
+        "22/0/0",
+        "22/0/0"
+      ],
+      "explicit": {
+        "A": 0,
+        "C": 1,
+        "D": 0
+      },
+      "C_items": [
+        "E04"
+      ],
+      "control_conditions": {
+        "A": 1,
+        "C": 2,
+        "D": 1
+      }
+    }
+  },
+  "AC": {
+    "wrong -> wrong": 20,
+    "correct -> wrong": 13,
+    "wrong -> correct": 4,
+    "correct -> correct": 8,
+    "missing -> correct": 2,
+    "missing -> wrong": 1
+  },
+  "BC": {
+    "correct -> wrong": 32,
+    "correct -> correct": 14,
+    "wrong -> wrong": 2
+  },
+  "AC_by_item": {
+    "E01": {
+      "wrong -> wrong": 6,
+      "correct -> wrong": 1,
+      "missing -> correct": 1
+    },
+    "E02": {
+      "correct -> wrong": 6,
+      "wrong -> wrong": 1,
+      "missing -> wrong": 1
+    },
+    "E03": {
+      "wrong -> wrong": 2,
+      "correct -> wrong": 3,
+      "correct -> correct": 3
+    },
+    "E04": {
+      "wrong -> correct": 4,
+      "wrong -> wrong": 1,
+      "correct -> correct": 3
+    },
+    "E05": {
+      "wrong -> wrong": 7,
+      "missing -> correct": 1
+    },
+    "E06": {
+      "correct -> wrong": 3,
+      "correct -> correct": 2,
+      "wrong -> wrong": 3
+    }
+  },
+  "tokens": 10444773,
+  "total_correct": 158,
+  "missing": 6
+}

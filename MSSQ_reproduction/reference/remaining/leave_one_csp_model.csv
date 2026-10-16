@@ -1,0 +1,193 @@
+model,omitted_csp,leave_one_out_estimate
+Claude Opus 5,bijective_matching__development__sequential_richer_balanced_002,0.6731150793650794
+Claude Opus 5,bijective_matching__development__sequential_richer_balanced_003,0.6671626984126985
+Claude Opus 5,bijective_matching__development__sequential_richer_notprare_001,0.6731150793650794
+Claude Opus 5,bijective_matching__development__sequential_richer_prare_001,0.6651785714285715
+Claude Opus 5,bijective_matching__development__sequential_sparse_balanced_001,0.6612103174603174
+Claude Opus 5,bijective_matching__development__sequential_sparse_balanced_002,0.6711309523809524
+Claude Opus 5,bijective_matching__development__sequential_sparse_notprare_001,0.6671626984126985
+Claude Opus 5,bijective_matching__development__sequential_sparse_prare_001_new,0.6691468253968255
+Claude Opus 5,mssq_frequency_0001,0.6664186507936508
+Claude Opus 5,mssq_frequency_0002,0.6644345238095238
+Claude Opus 5,mssq_frequency_0003,0.6723710317460317
+Claude Opus 5,mssq_frequency_0004,0.6644345238095238
+Claude Opus 5,mssq_frequency_0005,0.6644345238095238
+Claude Opus 5,mssq_frequency_0006,0.6684027777777778
+Claude Opus 5,mssq_frequency_0007,0.6644345238095238
+Claude Opus 5,mssq_frequency_0008,0.6822916666666666
+Claude Opus 5,csp_0001,0.6639384920634921
+Claude Opus 5,csp_0002,0.6619543650793651
+Claude Opus 5,csp_0003,0.667906746031746
+Claude Opus 5,csp_0004,0.6440972222222222
+Claude Opus 5,csp_0005,0.6877480158730159
+Claude Opus 5,csp_0006,0.6798115079365079
+Claude Opus 5,csp_0007,0.6798115079365079
+Claude Opus 5,csp_0008,0.6619543650793651
+Qwen3.8-Max,bijective_matching__development__sequential_richer_balanced_002,0.5890376984126985
+Qwen3.8-Max,bijective_matching__development__sequential_richer_balanced_003,0.5989583333333334
+Qwen3.8-Max,bijective_matching__development__sequential_richer_notprare_001,0.6009424603174603
+Qwen3.8-Max,bijective_matching__development__sequential_richer_prare_001,0.5850694444444444
+Qwen3.8-Max,bijective_matching__development__sequential_sparse_balanced_001,0.5930059523809524
+Qwen3.8-Max,bijective_matching__development__sequential_sparse_balanced_002,0.5989583333333334
+Qwen3.8-Max,bijective_matching__development__sequential_sparse_notprare_001,0.6049107142857143
+Qwen3.8-Max,bijective_matching__development__sequential_sparse_prare_001_new,0.6068948412698413
+Qwen3.8-Max,mssq_frequency_0001,0.6019345238095238
+Qwen3.8-Max,mssq_frequency_0002,0.592013888888889
+Qwen3.8-Max,mssq_frequency_0003,0.5979662698412699
+Qwen3.8-Max,mssq_frequency_0004,0.5959821428571429
+Qwen3.8-Max,mssq_frequency_0005,0.590029761904762
+Qwen3.8-Max,mssq_frequency_0006,0.5939980158730159
+Qwen3.8-Max,mssq_frequency_0007,0.592013888888889
+Qwen3.8-Max,mssq_frequency_0008,0.6138392857142857
+Qwen3.8-Max,csp_0001,0.5987103174603174
+Qwen3.8-Max,csp_0002,0.5927579365079365
+Qwen3.8-Max,csp_0003,0.6046626984126985
+Qwen3.8-Max,csp_0004,0.5768849206349207
+Qwen3.8-Max,csp_0005,0.6106150793650794
+Qwen3.8-Max,csp_0006,0.6026785714285715
+Qwen3.8-Max,csp_0007,0.6006944444444444
+Qwen3.8-Max,csp_0008,0.5907738095238095
+DeepSeek-V4-Pro,bijective_matching__development__sequential_richer_balanced_002,0.576388888888889
+DeepSeek-V4-Pro,bijective_matching__development__sequential_richer_balanced_003,0.576388888888889
+DeepSeek-V4-Pro,bijective_matching__development__sequential_richer_notprare_001,0.574404761904762
+DeepSeek-V4-Pro,bijective_matching__development__sequential_richer_prare_001,0.564484126984127
+DeepSeek-V4-Pro,bijective_matching__development__sequential_sparse_balanced_001,0.566468253968254
+DeepSeek-V4-Pro,bijective_matching__development__sequential_sparse_balanced_002,0.574404761904762
+DeepSeek-V4-Pro,bijective_matching__development__sequential_sparse_notprare_001,0.574404761904762
+DeepSeek-V4-Pro,bijective_matching__development__sequential_sparse_prare_001_new,0.576388888888889
+DeepSeek-V4-Pro,mssq_frequency_0001,0.5689484126984127
+DeepSeek-V4-Pro,mssq_frequency_0002,0.5729166666666666
+DeepSeek-V4-Pro,mssq_frequency_0003,0.5749007936507936
+DeepSeek-V4-Pro,mssq_frequency_0004,0.5689484126984127
+DeepSeek-V4-Pro,mssq_frequency_0005,0.5788690476190476
+DeepSeek-V4-Pro,mssq_frequency_0006,0.5709325396825397
+DeepSeek-V4-Pro,mssq_frequency_0007,0.5629960317460317
+DeepSeek-V4-Pro,mssq_frequency_0008,0.5848214285714285
+DeepSeek-V4-Pro,csp_0001,0.5719246031746031
+DeepSeek-V4-Pro,csp_0002,0.5679563492063492
+DeepSeek-V4-Pro,csp_0003,0.579861111111111
+DeepSeek-V4-Pro,csp_0004,0.5560515873015873
+DeepSeek-V4-Pro,csp_0005,0.5739087301587301
+DeepSeek-V4-Pro,csp_0006,0.581845238095238
+DeepSeek-V4-Pro,csp_0007,0.579861111111111
+DeepSeek-V4-Pro,csp_0008,0.5719246031746031
+Grok 4.6,bijective_matching__development__sequential_richer_balanced_002,0.533234126984127
+Grok 4.6,bijective_matching__development__sequential_richer_balanced_003,0.527281746031746
+Grok 4.6,bijective_matching__development__sequential_richer_notprare_001,0.53125
+Grok 4.6,bijective_matching__development__sequential_richer_prare_001,0.5213293650793651
+Grok 4.6,bijective_matching__development__sequential_sparse_balanced_001,0.5193452380952381
+Grok 4.6,bijective_matching__development__sequential_sparse_balanced_002,0.535218253968254
+Grok 4.6,bijective_matching__development__sequential_sparse_notprare_001,0.5252976190476191
+Grok 4.6,bijective_matching__development__sequential_sparse_prare_001_new,0.529265873015873
+Grok 4.6,mssq_frequency_0001,0.533234126984127
+Grok 4.6,mssq_frequency_0002,0.523313492063492
+Grok 4.6,mssq_frequency_0003,0.5292658730158729
+Grok 4.6,mssq_frequency_0004,0.5312499999999999
+Grok 4.6,mssq_frequency_0005,0.5312499999999999
+Grok 4.6,mssq_frequency_0006,0.519345238095238
+Grok 4.6,mssq_frequency_0007,0.5133928571428571
+Grok 4.6,mssq_frequency_0008,0.5411706349206349
+Grok 4.6,csp_0001,0.5347222222222222
+Grok 4.6,csp_0002,0.5208333333333334
+Grok 4.6,csp_0003,0.5287698412698413
+Grok 4.6,csp_0004,0.5168650793650793
+Grok 4.6,csp_0005,0.5347222222222222
+Grok 4.6,csp_0006,0.5307539682539683
+Grok 4.6,csp_0007,0.5287698412698413
+Grok 4.6,csp_0008,0.5267857142857143
+GLM-5.2,bijective_matching__development__sequential_richer_balanced_002,0.4506448412698412
+GLM-5.2,bijective_matching__development__sequential_richer_balanced_003,0.4645337301587302
+GLM-5.2,bijective_matching__development__sequential_richer_notprare_001,0.45858134920634913
+GLM-5.2,bijective_matching__development__sequential_richer_prare_001,0.4526289682539682
+GLM-5.2,bijective_matching__development__sequential_sparse_balanced_001,0.4446924603174603
+GLM-5.2,bijective_matching__development__sequential_sparse_balanced_002,0.4605654761904762
+GLM-5.2,bijective_matching__development__sequential_sparse_notprare_001,0.4625496031746032
+GLM-5.2,bijective_matching__development__sequential_sparse_prare_001_new,0.45858134920634913
+GLM-5.2,mssq_frequency_0001,0.4662698412698412
+GLM-5.2,mssq_frequency_0002,0.45634920634920634
+GLM-5.2,mssq_frequency_0003,0.45634920634920634
+GLM-5.2,mssq_frequency_0004,0.45436507936507936
+GLM-5.2,mssq_frequency_0005,0.45436507936507936
+GLM-5.2,mssq_frequency_0006,0.4523809523809524
+GLM-5.2,mssq_frequency_0007,0.44841269841269843
+GLM-5.2,mssq_frequency_0008,0.46428571428571425
+GLM-5.2,csp_0001,0.4625496031746032
+GLM-5.2,csp_0002,0.45659722222222215
+GLM-5.2,csp_0003,0.4605654761904762
+GLM-5.2,csp_0004,0.44866071428571425
+GLM-5.2,csp_0005,0.4526289682539682
+GLM-5.2,csp_0006,0.4546130952380952
+GLM-5.2,csp_0007,0.4526289682539682
+GLM-5.2,csp_0008,0.4645337301587302
+GPT-5.6 Sol,bijective_matching__development__sequential_richer_balanced_002,0.4848710317460317
+GPT-5.6 Sol,bijective_matching__development__sequential_richer_balanced_003,0.47296626984126977
+GPT-5.6 Sol,bijective_matching__development__sequential_richer_notprare_001,0.4789186507936507
+GPT-5.6 Sol,bijective_matching__development__sequential_richer_prare_001,0.48090277777777773
+GPT-5.6 Sol,bijective_matching__development__sequential_sparse_balanced_001,0.46701388888888884
+GPT-5.6 Sol,bijective_matching__development__sequential_sparse_balanced_002,0.48685515873015867
+GPT-5.6 Sol,bijective_matching__development__sequential_sparse_notprare_001,0.4828869047619047
+GPT-5.6 Sol,bijective_matching__development__sequential_sparse_prare_001_new,0.4789186507936507
+GPT-5.6 Sol,mssq_frequency_0001,0.4913194444444444
+GPT-5.6 Sol,mssq_frequency_0002,0.47544642857142855
+GPT-5.6 Sol,mssq_frequency_0003,0.47544642857142855
+GPT-5.6 Sol,mssq_frequency_0004,0.4714781746031746
+GPT-5.6 Sol,mssq_frequency_0005,0.4853670634920635
+GPT-5.6 Sol,mssq_frequency_0006,0.4774305555555556
+GPT-5.6 Sol,mssq_frequency_0007,0.47346230158730157
+GPT-5.6 Sol,mssq_frequency_0008,0.4833829365079365
+GPT-5.6 Sol,csp_0001,0.4801587301587302
+GPT-5.6 Sol,csp_0002,0.48412698412698413
+GPT-5.6 Sol,csp_0003,0.4801587301587302
+GPT-5.6 Sol,csp_0004,0.46428571428571425
+GPT-5.6 Sol,csp_0005,0.48412698412698413
+GPT-5.6 Sol,csp_0006,0.48214285714285715
+GPT-5.6 Sol,csp_0007,0.4781746031746032
+GPT-5.6 Sol,csp_0008,0.4801587301587302
+Kimi-K2.6,bijective_matching__development__sequential_richer_balanced_002,0.43725198412698413
+Kimi-K2.6,bijective_matching__development__sequential_richer_balanced_003,0.43725198412698413
+Kimi-K2.6,bijective_matching__development__sequential_richer_notprare_001,0.4332837301587302
+Kimi-K2.6,bijective_matching__development__sequential_richer_prare_001,0.43725198412698413
+Kimi-K2.6,bijective_matching__development__sequential_sparse_balanced_001,0.4392361111111111
+Kimi-K2.6,bijective_matching__development__sequential_sparse_balanced_002,0.43725198412698413
+Kimi-K2.6,bijective_matching__development__sequential_sparse_notprare_001,0.42733134920634913
+Kimi-K2.6,bijective_matching__development__sequential_sparse_prare_001_new,0.43725198412698413
+Kimi-K2.6,mssq_frequency_0001,0.4437003968253968
+Kimi-K2.6,mssq_frequency_0002,0.43774801587301587
+Kimi-K2.6,mssq_frequency_0003,0.43377976190476186
+Kimi-K2.6,mssq_frequency_0004,0.43576388888888884
+Kimi-K2.6,mssq_frequency_0005,0.43576388888888884
+Kimi-K2.6,mssq_frequency_0006,0.43774801587301587
+Kimi-K2.6,mssq_frequency_0007,0.42584325396825395
+Kimi-K2.6,mssq_frequency_0008,0.43576388888888884
+Kimi-K2.6,csp_0001,0.4389880952380952
+Kimi-K2.6,csp_0002,0.4389880952380952
+Kimi-K2.6,csp_0003,0.43303571428571425
+Kimi-K2.6,csp_0004,0.43303571428571425
+Kimi-K2.6,csp_0005,0.4389880952380952
+Kimi-K2.6,csp_0006,0.4350198412698412
+Kimi-K2.6,csp_0007,0.43303571428571425
+Kimi-K2.6,csp_0008,0.4350198412698412
+Gemini 3.8 Flash,bijective_matching__development__sequential_richer_balanced_002,0.42559523809523814
+Gemini 3.8 Flash,bijective_matching__development__sequential_richer_balanced_003,0.42559523809523814
+Gemini 3.8 Flash,bijective_matching__development__sequential_richer_notprare_001,0.43154761904761907
+Gemini 3.8 Flash,bijective_matching__development__sequential_richer_prare_001,0.4216269841269842
+Gemini 3.8 Flash,bijective_matching__development__sequential_sparse_balanced_001,0.43353174603174605
+Gemini 3.8 Flash,bijective_matching__development__sequential_sparse_balanced_002,0.42559523809523814
+Gemini 3.8 Flash,bijective_matching__development__sequential_sparse_notprare_001,0.42361111111111116
+Gemini 3.8 Flash,bijective_matching__development__sequential_sparse_prare_001_new,0.4295634920634921
+Gemini 3.8 Flash,mssq_frequency_0001,0.4375
+Gemini 3.8 Flash,mssq_frequency_0002,0.42162698412698413
+Gemini 3.8 Flash,mssq_frequency_0003,0.42757936507936506
+Gemini 3.8 Flash,mssq_frequency_0004,0.42757936507936506
+Gemini 3.8 Flash,mssq_frequency_0005,0.42757936507936506
+Gemini 3.8 Flash,mssq_frequency_0006,0.4255952380952381
+Gemini 3.8 Flash,mssq_frequency_0007,0.4136904761904761
+Gemini 3.8 Flash,mssq_frequency_0008,0.43551587301587297
+Gemini 3.8 Flash,csp_0001,0.435515873015873
+Gemini 3.8 Flash,csp_0002,0.43154761904761907
+Gemini 3.8 Flash,csp_0003,0.41964285714285715
+Gemini 3.8 Flash,csp_0004,0.42757936507936506
+Gemini 3.8 Flash,csp_0005,0.4295634920634921
+Gemini 3.8 Flash,csp_0006,0.4255952380952381
+Gemini 3.8 Flash,csp_0007,0.4255952380952381
+Gemini 3.8 Flash,csp_0008,0.42162698412698413

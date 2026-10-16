@@ -1,0 +1,67 @@
+{
+  "missed": 437,
+  "missed_judgment_status": {
+    "compatible": 428,
+    "indeterminate": 9
+  },
+  "missed_sources": {
+    "both_none": 332,
+    "verified": 61,
+    "one_none_unknown": 44
+  },
+  "rule_transitions": {
+    "incompatible -> incompatible": 776,
+    "compatible -> compatible": 178,
+    "indeterminate -> compatible": 91,
+    "indeterminate -> incompatible": 12,
+    "indeterminate -> indeterminate": 95
+  },
+  "claim_wrong_compatible": 58,
+  "local_claim_n": 488,
+  "ALL": {
+    "modal": 437,
+    "failure": 280,
+    "both": 62,
+    "wrong": 18,
+    "unavailable": 5
+  },
+  "official": {
+    "modal": 214,
+    "failure": 139,
+    "both": 19,
+    "wrong": 9,
+    "unavailable": 1
+  },
+  "no_gemini": {
+    "modal": 383,
+    "failure": 228,
+    "both": 61,
+    "wrong": 18,
+    "unavailable": 5
+  },
+  "valid_wit_wrong_must": {
+    "n": 47,
+    "csps": 18,
+    "models": 7
+  },
+  "task_order_bootstrap": 0.9885,
+  "behavior_bootstrap": {
+    "seed": 27017,
+    "replicates": 10000,
+    "strata": "family",
+    "draws_per_family": 8,
+    "rng": "Python random.Random"
+  },
+  "behavior_intervals": {
+    "GPT_GLM_validity": {
+      "point": 13.968516984258494,
+      "low": -0.2850452196382382,
+      "high": 27.01979355716878
+    },
+    "Qwen_DS_submission": {
+      "point": 11.979166666666668,
+      "low": 4.6875,
+      "high": 19.791666666666668
+    }
+  }
+}
