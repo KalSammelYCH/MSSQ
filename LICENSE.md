@@ -4,17 +4,14 @@ Copyright (c) 2026 MSSQ contributors.
 
 ## Covered materials
 
-This notice applies to the MSSQ research materials in
-`MSSQ_materials_20261016.zip`, version `2026-10-16`, identified by:
-
-```text
-SHA-256: 89fbcd7acf8be6ad3b3a5f14de88ad47cc34704db1ff36ba354fecb354d698c0
-```
+This notice applies to the MSSQ research materials distributed with this file
+in `MSSQ_materials_20261017.zip` (packaging version `2026-10-17`). This package
+adds license notices to the research materials released on 2026-10-16;
+the research data, code, and existing documentation are unchanged.
 
 It also applies to the corresponding code, data, and documentation made available
 in the repository at https://github.com/KalSammelYCH/MSSQ, except where a file
-explicitly carries a different license. This standalone notice accompanies the
-archive without changing its contents or checksum.
+explicitly carries a different license.
 
 ## Python code: MIT
 
