@@ -1,0 +1,173 @@
+name: Upload MSSQ materials to Zenodo draft
+
+on:
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: mssq-zenodo-draft-23423322
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    if: github.repository == 'KalSammelYCH/MSSQ' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - name: Download and verify the published release assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p materials
+          cd materials
+          release='https://github.com/KalSammelYCH/MSSQ/releases/download/v20261017'
+          curl --fail --location --proto '=https' --proto-redir '=https' --connect-timeout 30 --max-time 900 --retry 2 --retry-delay 60 --output MSSQ_materials_20261017.zip "$release/MSSQ_materials_20261017.zip"
+          curl --fail --location --proto '=https' --proto-redir '=https' --connect-timeout 30 --max-time 120 --retry 2 --retry-delay 60 --output SHA256SUMS.txt "$release/SHA256SUMS.txt"
+          echo 'cfb1ca939ae108261d45d205786827f6d02eee510ca7dab8dffe73f96b7c4884  MSSQ_materials_20261017.zip' | sha256sum --check --strict
+          echo '8b59872ffadb220c7f1aaf28648ae30e8c6a4ea024760ff1609ea14db20e65b4  SHA256SUMS.txt' | sha256sum --check --strict
+
+      - name: Upload to the existing unpublished Zenodo draft
+        shell: bash
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          """将已核验的MSSQ发行附件传至既有Zenodo草稿。
+          输入：固定版本的ZIP和校验文件，以及Actions Secret注入的令牌。
+          输出：上传状态与远端大小/MD5核验；不记录令牌或研究内容。
+          流程：核验本地文件、草稿编号及未发布状态，检查同名附件，
+          上传缺失附件并复核。只读请求有限重试；上传不自动重试。
+          同名ZIP不一致时停止，校验文件可更新到与新版ZIP一致。
+          不创建新记录、不删除文件、不修改元数据、不发布记录。
+          """
+          import hashlib
+          import json
+          import os
+          import sys
+          import time
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+
+          TOKEN = os.environ.pop('ZENODO_TOKEN', '').strip()
+          DEPOSIT = 'https://zenodo.org/api/deposit/depositions/23423322'
+          FILES = {
+              'MSSQ_materials_20261017.zip': 'cfb1ca939ae108261d45d205786827f6d02eee510ca7dab8dffe73f96b7c4884',
+              'SHA256SUMS.txt': '8b59872ffadb220c7f1aaf28648ae30e8c6a4ea024760ff1609ea14db20e65b4',
+          }
+
+          class NoRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self, req, fp, code, msg, headers, newurl):
+                  return None
+
+          opener = urllib.request.build_opener(NoRedirect())
+
+          def request(url, method='GET', data=None, size=None):
+              parsed = urllib.parse.urlsplit(url)
+              if parsed.scheme != 'https' or parsed.netloc != 'zenodo.org' or parsed.query or parsed.fragment:
+                  raise ValueError('Unexpected destination. Stopped before sending credentials.')
+              headers = {
+                  'Authorization': 'Bearer ' + TOKEN,
+                  'Accept': 'application/json',
+                  'User-Agent': 'MSSQ-release-transfer/1.0 (+https://github.com/KalSammelYCH/MSSQ)',
+              }
+              if data is not None:
+                  headers.update({'Content-Length': str(size), 'Content-Type': 'application/octet-stream'})
+              for attempt in range(3 if method == 'GET' else 1):
+                  delay = 60
+                  req = urllib.request.Request(url, data=data, headers=headers, method=method)
+                  try:
+                      with opener.open(req, timeout=300) as response:
+                          return json.load(response)
+                  except urllib.error.HTTPError as error:
+                      if method != 'GET' or attempt == 2 or error.code not in (429, 500, 502, 503, 504):
+                          raise
+                      retry = error.headers.get('Retry-After')
+                      if retry:
+                          try:
+                              seconds = int(retry)
+                          except ValueError:
+                              seconds = (parsedate_to_datetime(retry) - datetime.now(timezone.utc)).total_seconds()
+                          delay = max(delay, seconds)
+                      if delay > 300:
+                          raise
+                      print('Temporary read failure: HTTP', error.code, flush=True)
+                      error.close()
+                  except (urllib.error.URLError, TimeoutError, ConnectionError):
+                      if method != 'GET' or attempt == 2:
+                          raise
+                      print('Temporary connection failure during read.', flush=True)
+                  print(f'Retrying read in {delay:.0f}s ({attempt + 1}/2).', flush=True)
+                  time.sleep(delay)
+
+          def file_list(record):
+              if str(record.get('id')) != '23423322' or record.get('submitted') is not False:
+                  raise ValueError('Expected unpublished draft 23423322. Stopped.')
+              files = record['files'] if 'files' in record else request(DEPOSIT + '/files')
+              if not isinstance(files, list):
+                  raise ValueError('Unexpected file list. Stopped.')
+              return {f.get('filename', f.get('key')): f for f in files}
+
+          def matches(entry, expected):
+              return (str(entry.get('filesize', entry.get('size'))) == str(expected['size'])
+                      and str(entry.get('checksum', '')).removeprefix('md5:').lower() == expected['md5'])
+
+          def main():
+              if not TOKEN:
+                  raise ValueError('Add the repository Actions secret named ZENODO_TOKEN first.')
+              local = {}
+              for name, expected_sha in FILES.items():
+                  path = Path('materials') / name
+                  with path.open('rb') as stream:
+                      actual_sha = hashlib.file_digest(stream, 'sha256').hexdigest()
+                  if actual_sha != expected_sha:
+                      raise ValueError('SHA256 mismatch: ' + name)
+                  with path.open('rb') as stream:
+                      md5 = hashlib.file_digest(stream, 'md5').hexdigest()
+                  local[name] = {'path': path, 'size': path.stat().st_size, 'md5': md5}
+              record = request(DEPOSIT)
+              existing = file_list(record)
+              bucket = record.get('links', {}).get('bucket', '')
+              if not bucket.startswith('https://zenodo.org/api/files/'):
+                  raise ValueError('Expected a Zenodo upload bucket. Stopped.')
+              zip_name = 'MSSQ_materials_20261017.zip'
+              if zip_name in existing and not matches(existing[zip_name], local[zip_name]):
+                  raise ValueError('A different or incomplete ZIP exists. Remove only the failed MSSQ_materials_20261017.zip row in the Zenodo draft, then run again.')
+              for name, expected in local.items():
+                  if name in existing and matches(existing[name], expected):
+                      print('Already verified:', name, flush=True)
+                      continue
+                  if name in existing:
+                      print('Updating checksum file to match the new archive.', flush=True)
+                  print('Uploading:', name, expected['size'], 'bytes. Waiting for server confirmation.', flush=True)
+                  with expected['path'].open('rb') as stream:
+                      result = request(bucket.rstrip('/') + '/' + urllib.parse.quote(name), 'PUT', stream, expected['size'])
+                  if result.get('key') != name or not matches(result, expected):
+                      raise ValueError('Server size/MD5 did not match for ' + name)
+                  print('Server verified:', name, flush=True)
+              remote = file_list(request(DEPOSIT))
+              for name, expected in local.items():
+                  if name not in remote or not matches(remote[name], expected):
+                      raise ValueError('Final verification failed for ' + name)
+              print('SUCCESS: both files verified. Zenodo record remains an unpublished draft.', flush=True)
+
+          try:
+              main()
+          except urllib.error.HTTPError as error:
+              print('FAILED: Zenodo HTTP', error.code, flush=True)
+              print('No upload retry. Check draft files before running again.', flush=True)
+              sys.exit(1)
+          except ValueError as error:
+              message = str(error).replace(TOKEN, '[redacted]') if TOKEN else str(error)
+              print('FAILED:', message, flush=True)
+              sys.exit(1)
+          except Exception as error:
+              print('FAILED:', type(error).__name__, '- completion unconfirmed; inspect the draft before retrying.', flush=True)
+              sys.exit(1)
+          finally:
+              TOKEN = ''
+          PY
