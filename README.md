@@ -49,4 +49,6 @@ Choose a new output directory. The calculation runs offline, checks file hashes,
 
 See the [reproduction guide](MSSQ_reproduction/README.md) for data fields and answer-extraction decisions. The [text-constraint check](MSSQ_reproduction/semantic_checks/README.md) has separate replay commands; run these in a working copy of the complete release. The response dataset contains adopted responses, rather than a complete log of all collection attempts; its resource measurements describe those adopted responses.
 
-Python source files are licensed under MIT. Research data and documentation are licensed under CC BY 4.0. See LICENSE.md for scope and third-party rights.
+## License
+
+Python source files are licensed under MIT. Research data and documentation are licensed under CC BY 4.0. See [LICENSE.md](LICENSE.md) for scope and third-party rights.
